@@ -15,7 +15,7 @@
 ## 🛠️ Instalación y Ejecución
 
 1. **Clona el repositorio**:
-   git clone https://github.com/tu_usuario/InsightBot.git
+   git clone https://github.com/lenin-zapata/InsightBot.git
    cd InsightBot
 
 
@@ -35,61 +35,53 @@
 
 📅 24 meses de datos históricos (2022-2023).
 
-Métricas clave:
+**Métricas clave:**
 
-Ventas proyectadas vs. reales.
+- Ventas proyectadas vs. reales.
+- Compras reales.
+- Margen de ganancia por categoría.
 
-Compras reales.
+**Ejemplo de consultas posibles:**
 
-Margen de ganancia por categoría.
+- "¿Cuál fue el producto más vendido en Q1 2023?"
+- "Muestra una comparativa de ventas por categoría"
 
-Ejemplo de consultas posibles:
-"¿Cuál fue el producto más vendido en Q1 2023?"
-"Muestra una comparativa de ventas por categoría"
+**⚙️ Stack Tecnológico**
 
-⚙️ Stack Tecnológico
-Frontend: Streamlit
+- Frontend: Streamlit
+- Backend: Python 3.9+
+- LLMs: Hugging Face
+- Procesamiento de datos: Pandas, NumPy
 
-Backend: Python 3.9+
+**🌳 Estructura del Proyecto**
 
-LLMs: Modelos open-source (ej. LLaMA, Falcon)
+InsightBot/  
+|── data/ # Dataset en CSV  
+│ └── retail_indicators.csv # Datos de indicadores retail  
+├── app/ # Módulo principal  
+│ ├── main.py # Aplicación principal  
+│ ├── vector_store.py   
+│ └── qa_chain.py   
+├── requirements.txt # Dependencias  
+└── README.md # Documentación  
 
-Procesamiento de datos: Pandas, NumPy
 
-Visualización: Matplotlib, Plotly
+**💼 Casos de Uso Recomendados**
 
-🌳 Estructura del Proyecto
+- Análisis empresarial rápido: Obtén insights sin escribir código.
+- Prototipado de LLMs: Prueba modelos open-source en un caso real.
+- Educación: Enseña análisis de datos con ejemplos interactivos.
+- Desarrollo local: Ideal para entornos con restricciones de cloud.
 
-InsightBot/
-│
-├── data/ # Dataset en CSV
-│ └── retail_indicators.csv # Datos de indicadores retail
-│
-├── app/ # Módulo principal
-│ ├── main.py # Aplicación principal
-│ ├── vector_store.py 
-│ └── qa_chain.py 
-│
-├── requirements.txt # Dependencias
-└── README.md # Documentación
-
-💼 Casos de Uso Recomendados
-Análisis empresarial rápido: Obtén insights sin escribir código.
-
-Prototipado de LLMs: Prueba modelos open-source en un caso real.
-
-Educación: Enseña análisis de datos con ejemplos interactivos.
-
-Desarrollo local: Ideal para entornos con restricciones de cloud.
-
-✍️ Autor
+**✍️ Autor**  
 Lenin Omar Zapata Esparza
-📍 Quito, Ecuador
-📧 lenin.zapata.1993@gmail.com
-🔗 LinkedIn
 
-📜 Licencia
+**📍 Quito, Ecuador**  
+📧 lenin.zapata.1993@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/leninzapata-profile/)
+
+**📜 Licencia**  
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-🇪🇸 Español | 🇺🇸 English
+**🇪🇸 Español | 🇺🇸 English**  
 El proyecto soporta ambos idiomas en la interfaz y documentación.
