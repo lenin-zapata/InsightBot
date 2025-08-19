@@ -5,7 +5,7 @@ from qa_chain import build_qa_chain
 
 # Load environment variables
 load_dotenv()
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 
 st.set_page_config(page_title="Retail Chatbot", layout="centered")
 st.title("Retail Chatbot")
