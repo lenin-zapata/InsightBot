@@ -61,16 +61,15 @@ Visualización: Matplotlib, Plotly
 🌳 Estructura del Proyecto
 
 InsightBot/
-├── data/                    # Datasets ficticios en CSV/JSON
-│   ├── sales_data.csv
-│   └── product_catalog.json
-├── models/                  # Modelos LLM descargables
-├── utils/                   # Funciones auxiliares
-│   ├── data_loader.py
-│   └── llm_handler.py
-├── app.py                   # Aplicación principal
+├── data/                     # Dataset en CSV
+│   └── retail_indicators.csv
+├── app/                  
+│   ├── main.py               # Aplicación principal
+|   ├── vector_store.py
+│   └── qa_chain.py
+├── app.py                   
 ├── requirements.txt          # Dependencias
-└── README.md                # Este archivo
+└── README.md                 # Este archivo
 
 💼 Casos de Uso Recomendados
 Análisis empresarial rápido: Obtén insights sin escribir código.
