@@ -2,7 +2,7 @@ import streamlit as st
 from qa_chain import build_qa_chain
 
 st.set_page_config(page_title="Retail Chatbot", layout="centered")
-st.title("🧠 Retail Chatbot - Chatbot de Retail")
+st.title("Retail Chatbot")
 
 lang = st.radio("Choose language / Elige idioma", ["English", "Español"])
 
