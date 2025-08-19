@@ -1,0 +1,2401 @@
+Category,Product,Month/Year,Projected Sales,Actual Sales,Actual Purchases
+Electronics,Product_1,Jan/2022,1005,1279,1316
+Electronics,Product_1,Jan/2022,1038,1336,1345
+Electronics,Product_1,Mar/2022,1695,1803,1795
+Electronics,Product_1,Apr/2022,949,790,820
+Electronics,Product_1,May/2022,1510,1303,1396
+Electronics,Product_1,May/2022,596,408,347
+Electronics,Product_1,Jun/2022,1785,1648,1722
+Electronics,Product_1,Jul/2022,1364,1129,1127
+Electronics,Product_1,Aug/2022,1281,1460,1495
+Electronics,Product_1,Sep/2022,1014,1280,1182
+Electronics,Product_1,Oct/2022,1893,1710,1784
+Electronics,Product_1,Nov/2022,1599,1572,1668
+Electronics,Product_1,Dec/2022,1812,1860,1788
+Electronics,Product_1,Jan/2023,1101,1246,1186
+Electronics,Product_1,Feb/2023,1429,1132,1216
+Electronics,Product_1,Mar/2023,1973,1942,1970
+Electronics,Product_1,Apr/2023,865,1084,1011
+Electronics,Product_1,May/2023,1780,1785,1848
+Electronics,Product_1,Jun/2023,1539,1442,1381
+Electronics,Product_1,Jul/2023,1265,1130,1168
+Electronics,Product_1,Aug/2023,1586,1286,1339
+Electronics,Product_1,Sep/2023,1163,1363,1267
+Electronics,Product_1,Oct/2023,729,800,778
+Electronics,Product_1,Nov/2023,990,749,710
+Electronics,Product_2,Jan/2022,1661,1441,1362
+Electronics,Product_2,Jan/2022,1998,2195,2112
+Electronics,Product_2,Mar/2022,1590,1418,1350
+Electronics,Product_2,Apr/2022,1851,2037,2077
+Electronics,Product_2,May/2022,838,809,844
+Electronics,Product_2,May/2022,1742,1875,1829
+Electronics,Product_2,Jun/2022,1604,1509,1591
+Electronics,Product_2,Jul/2022,1138,1246,1317
+Electronics,Product_2,Aug/2022,1830,1912,1924
+Electronics,Product_2,Sep/2022,1559,1721,1651
+Electronics,Product_2,Oct/2022,1007,937,853
+Electronics,Product_2,Nov/2022,1192,913,963
+Electronics,Product_2,Dec/2022,1634,1569,1619
+Electronics,Product_2,Jan/2023,951,658,576
+Electronics,Product_2,Feb/2023,1949,1709,1667
+Electronics,Product_2,Mar/2023,638,370,354
+Electronics,Product_2,Apr/2023,645,871,831
+Electronics,Product_2,May/2023,1070,1267,1221
+Electronics,Product_2,Jun/2023,1604,1439,1524
+Electronics,Product_2,Jul/2023,1669,1959,1980
+Electronics,Product_2,Aug/2023,997,1181,1185
+Electronics,Product_2,Sep/2023,889,685,609
+Electronics,Product_2,Oct/2023,1849,1990,1980
+Electronics,Product_2,Nov/2023,1367,1487,1506
+Clothing,Product_3,Jan/2022,1993,1748,1820
+Clothing,Product_3,Jan/2022,1838,1638,1553
+Clothing,Product_3,Mar/2022,1324,1371,1298
+Clothing,Product_3,Apr/2022,1009,905,853
+Clothing,Product_3,May/2022,1598,1757,1692
+Clothing,Product_3,May/2022,1364,1251,1222
+Clothing,Product_3,Jun/2022,1447,1402,1321
+Clothing,Product_3,Jul/2022,1407,1670,1595
+Clothing,Product_3,Aug/2022,603,856,759
+Clothing,Product_3,Sep/2022,691,633,575
+Clothing,Product_3,Oct/2022,1332,1529,1552
+Clothing,Product_3,Nov/2022,937,1047,962
+Clothing,Product_3,Dec/2022,837,925,825
+Clothing,Product_3,Jan/2023,1299,1270,1370
+Clothing,Product_3,Feb/2023,1431,1423,1431
+Clothing,Product_3,Mar/2023,1926,2195,2264
+Clothing,Product_3,Apr/2023,1971,2169,2108
+Clothing,Product_3,May/2023,888,891,846
+Clothing,Product_3,Jun/2023,619,912,1000
+Clothing,Product_3,Jul/2023,1610,1372,1463
+Clothing,Product_3,Aug/2023,1142,900,812
+Clothing,Product_3,Sep/2023,1696,1884,1912
+Clothing,Product_3,Oct/2023,1587,1448,1362
+Clothing,Product_3,Nov/2023,1540,1322,1269
+Home & Kitchen,Product_4,Jan/2022,640,409,481
+Home & Kitchen,Product_4,Jan/2022,981,1094,1024
+Home & Kitchen,Product_4,Mar/2022,1666,1618,1666
+Home & Kitchen,Product_4,Apr/2022,1717,1457,1515
+Home & Kitchen,Product_4,May/2022,667,796,864
+Home & Kitchen,Product_4,May/2022,1695,1973,2006
+Home & Kitchen,Product_4,Jun/2022,1147,1114,1066
+Home & Kitchen,Product_4,Jul/2022,1871,1892,1853
+Home & Kitchen,Product_4,Aug/2022,1043,1148,1081
+Home & Kitchen,Product_4,Sep/2022,1875,1882,1899
+Home & Kitchen,Product_4,Oct/2022,1147,921,823
+Home & Kitchen,Product_4,Nov/2022,1438,1714,1639
+Home & Kitchen,Product_4,Dec/2022,650,900,854
+Home & Kitchen,Product_4,Jan/2023,1536,1507,1440
+Home & Kitchen,Product_4,Feb/2023,1214,984,946
+Home & Kitchen,Product_4,Mar/2023,1256,1247,1187
+Home & Kitchen,Product_4,Apr/2023,1397,1653,1733
+Home & Kitchen,Product_4,May/2023,1119,1360,1262
+Home & Kitchen,Product_4,Jun/2023,1867,2134,2110
+Home & Kitchen,Product_4,Jul/2023,1858,1664,1598
+Home & Kitchen,Product_4,Aug/2023,1041,859,786
+Home & Kitchen,Product_4,Sep/2023,1633,1492,1461
+Home & Kitchen,Product_4,Oct/2023,1077,992,1075
+Home & Kitchen,Product_4,Nov/2023,1202,1110,1185
+Home & Kitchen,Product_5,Jan/2022,1798,1768,1797
+Home & Kitchen,Product_5,Jan/2022,1500,1457,1370
+Home & Kitchen,Product_5,Mar/2022,689,822,792
+Home & Kitchen,Product_5,Apr/2022,590,293,278
+Home & Kitchen,Product_5,May/2022,767,735,676
+Home & Kitchen,Product_5,May/2022,1404,1668,1748
+Home & Kitchen,Product_5,Jun/2022,1375,1649,1551
+Home & Kitchen,Product_5,Jul/2022,729,506,582
+Home & Kitchen,Product_5,Aug/2022,805,1063,972
+Home & Kitchen,Product_5,Sep/2022,1256,1552,1593
+Home & Kitchen,Product_5,Oct/2022,803,943,875
+Home & Kitchen,Product_5,Nov/2022,585,600,593
+Home & Kitchen,Product_5,Dec/2022,581,647,600
+Home & Kitchen,Product_5,Jan/2023,1896,1851,1921
+Home & Kitchen,Product_5,Feb/2023,710,772,871
+Home & Kitchen,Product_5,Mar/2023,1646,1762,1820
+Home & Kitchen,Product_5,Apr/2023,816,758,699
+Home & Kitchen,Product_5,May/2023,862,984,890
+Home & Kitchen,Product_5,Jun/2023,867,907,1007
+Home & Kitchen,Product_5,Jul/2023,1343,1297,1265
+Home & Kitchen,Product_5,Aug/2023,826,636,633
+Home & Kitchen,Product_5,Sep/2023,579,760,716
+Home & Kitchen,Product_5,Oct/2023,908,1079,1068
+Home & Kitchen,Product_5,Nov/2023,1125,1058,1015
+Home & Kitchen,Product_6,Jan/2022,548,445,447
+Home & Kitchen,Product_6,Jan/2022,1172,1157,1074
+Home & Kitchen,Product_6,Mar/2022,1071,1130,1194
+Home & Kitchen,Product_6,Apr/2022,1543,1652,1725
+Home & Kitchen,Product_6,May/2022,1598,1637,1544
+Home & Kitchen,Product_6,May/2022,736,703,648
+Home & Kitchen,Product_6,Jun/2022,1689,1660,1569
+Home & Kitchen,Product_6,Jul/2022,722,866,854
+Home & Kitchen,Product_6,Aug/2022,1992,2013,2024
+Home & Kitchen,Product_6,Sep/2022,1741,1964,1893
+Home & Kitchen,Product_6,Oct/2022,1288,1578,1526
+Home & Kitchen,Product_6,Nov/2022,1021,766,847
+Home & Kitchen,Product_6,Dec/2022,1393,1094,1127
+Home & Kitchen,Product_6,Jan/2023,1602,1503,1496
+Home & Kitchen,Product_6,Feb/2023,1383,1154,1224
+Home & Kitchen,Product_6,Mar/2023,1176,1197,1266
+Home & Kitchen,Product_6,Apr/2023,755,762,791
+Home & Kitchen,Product_6,May/2023,1133,1251,1234
+Home & Kitchen,Product_6,Jun/2023,1324,1326,1367
+Home & Kitchen,Product_6,Jul/2023,760,656,663
+Home & Kitchen,Product_6,Aug/2023,1861,1949,2022
+Home & Kitchen,Product_6,Sep/2023,856,1138,1115
+Home & Kitchen,Product_6,Oct/2023,1331,1592,1492
+Home & Kitchen,Product_6,Nov/2023,1122,1115,1068
+Electronics,Product_7,Jan/2022,1380,1673,1728
+Electronics,Product_7,Jan/2022,1840,1869,1888
+Electronics,Product_7,Mar/2022,1404,1556,1628
+Electronics,Product_7,Apr/2022,937,1160,1181
+Electronics,Product_7,May/2022,847,633,605
+Electronics,Product_7,May/2022,1555,1598,1521
+Electronics,Product_7,Jun/2022,981,998,955
+Electronics,Product_7,Jul/2022,907,757,663
+Electronics,Product_7,Aug/2022,594,544,565
+Electronics,Product_7,Sep/2022,1751,1525,1541
+Electronics,Product_7,Oct/2022,1348,1637,1586
+Electronics,Product_7,Nov/2022,1971,2064,2090
+Electronics,Product_7,Dec/2022,1318,1267,1204
+Electronics,Product_7,Jan/2023,1843,1548,1640
+Electronics,Product_7,Feb/2023,718,853,809
+Electronics,Product_7,Mar/2023,860,1090,1108
+Electronics,Product_7,Apr/2023,602,872,835
+Electronics,Product_7,May/2023,748,915,849
+Electronics,Product_7,Jun/2023,1451,1694,1737
+Electronics,Product_7,Jul/2023,1719,1743,1836
+Electronics,Product_7,Aug/2023,1406,1622,1631
+Electronics,Product_7,Sep/2023,1622,1778,1718
+Electronics,Product_7,Oct/2023,1472,1632,1598
+Electronics,Product_7,Nov/2023,1006,989,1085
+Books,Product_8,Jan/2022,1567,1763,1823
+Books,Product_8,Jan/2022,989,970,982
+Books,Product_8,Mar/2022,658,650,610
+Books,Product_8,Apr/2022,1056,1099,1080
+Books,Product_8,May/2022,1606,1388,1323
+Books,Product_8,May/2022,808,744,742
+Books,Product_8,Jun/2022,1921,1777,1857
+Books,Product_8,Jul/2022,938,703,709
+Books,Product_8,Aug/2022,1334,1372,1410
+Books,Product_8,Sep/2022,1454,1579,1494
+Books,Product_8,Oct/2022,923,1053,1052
+Books,Product_8,Nov/2022,1696,1416,1511
+Books,Product_8,Dec/2022,1679,1768,1790
+Books,Product_8,Jan/2023,512,572,548
+Books,Product_8,Feb/2023,1298,1427,1464
+Books,Product_8,Mar/2023,1618,1543,1567
+Books,Product_8,Apr/2023,949,928,939
+Books,Product_8,May/2023,1494,1223,1222
+Books,Product_8,Jun/2023,1188,1302,1387
+Books,Product_8,Jul/2023,838,1016,948
+Books,Product_8,Aug/2023,1774,2020,1926
+Books,Product_8,Sep/2023,1306,1583,1652
+Books,Product_8,Oct/2023,555,340,404
+Books,Product_8,Nov/2023,1377,1215,1233
+Electronics,Product_9,Jan/2022,872,623,589
+Electronics,Product_9,Jan/2022,1276,1311,1265
+Electronics,Product_9,Mar/2022,1431,1465,1451
+Electronics,Product_9,Apr/2022,1276,1260,1352
+Electronics,Product_9,May/2022,1363,1321,1241
+Electronics,Product_9,May/2022,1463,1182,1273
+Electronics,Product_9,Jun/2022,1604,1357,1346
+Electronics,Product_9,Jul/2022,959,729,828
+Electronics,Product_9,Aug/2022,1834,1575,1668
+Electronics,Product_9,Sep/2022,563,516,467
+Electronics,Product_9,Oct/2022,541,397,358
+Electronics,Product_9,Nov/2022,758,942,1013
+Electronics,Product_9,Dec/2022,734,1011,966
+Electronics,Product_9,Jan/2023,1452,1414,1510
+Electronics,Product_9,Feb/2023,1255,1126,1181
+Electronics,Product_9,Mar/2023,1743,1560,1659
+Electronics,Product_9,Apr/2023,835,853,780
+Electronics,Product_9,May/2023,1685,1411,1390
+Electronics,Product_9,Jun/2023,1679,1763,1764
+Electronics,Product_9,Jul/2023,1964,1867,1786
+Electronics,Product_9,Aug/2023,1712,1660,1586
+Electronics,Product_9,Sep/2023,1927,1935,2010
+Electronics,Product_9,Oct/2023,1729,1552,1596
+Electronics,Product_9,Nov/2023,584,639,675
+Books,Product_10,Jan/2022,1377,1456,1373
+Books,Product_10,Jan/2022,1536,1585,1488
+Books,Product_10,Mar/2022,1360,1561,1488
+Books,Product_10,Apr/2022,1387,1457,1519
+Books,Product_10,May/2022,1441,1297,1308
+Books,Product_10,May/2022,860,1094,1160
+Books,Product_10,Jun/2022,1053,1304,1402
+Books,Product_10,Jul/2022,1490,1666,1677
+Books,Product_10,Aug/2022,1997,1971,1953
+Books,Product_10,Sep/2022,1002,790,761
+Books,Product_10,Oct/2022,1423,1372,1464
+Books,Product_10,Nov/2022,1451,1734,1790
+Books,Product_10,Dec/2022,1868,1956,1942
+Books,Product_10,Jan/2023,558,764,747
+Books,Product_10,Feb/2023,872,1071,1025
+Books,Product_10,Mar/2023,1226,1190,1177
+Books,Product_10,Apr/2023,1072,1054,1096
+Books,Product_10,May/2023,520,749,697
+Books,Product_10,Jun/2023,675,622,706
+Books,Product_10,Jul/2023,1332,1532,1574
+Books,Product_10,Aug/2023,992,1179,1244
+Books,Product_10,Sep/2023,1957,2159,2173
+Books,Product_10,Oct/2023,535,330,305
+Books,Product_10,Nov/2023,953,1067,1144
+Sports,Product_11,Jan/2022,998,1011,1080
+Sports,Product_11,Jan/2022,1691,1768,1789
+Sports,Product_11,Mar/2022,1633,1876,1864
+Sports,Product_11,Apr/2022,1371,1634,1618
+Sports,Product_11,May/2022,1220,1384,1353
+Sports,Product_11,May/2022,1127,1084,1043
+Sports,Product_11,Jun/2022,747,644,624
+Sports,Product_11,Jul/2022,744,992,1087
+Sports,Product_11,Aug/2022,1913,1802,1751
+Sports,Product_11,Sep/2022,943,1138,1108
+Sports,Product_11,Oct/2022,1983,2220,2272
+Sports,Product_11,Nov/2022,1079,881,830
+Sports,Product_11,Dec/2022,1106,1038,1030
+Sports,Product_11,Jan/2023,867,876,779
+Sports,Product_11,Feb/2023,1950,2196,2128
+Sports,Product_11,Mar/2023,1061,807,720
+Sports,Product_11,Apr/2023,1633,1632,1710
+Sports,Product_11,May/2023,758,960,886
+Sports,Product_11,Jun/2023,525,812,784
+Sports,Product_11,Jul/2023,1461,1651,1663
+Sports,Product_11,Aug/2023,1197,1085,998
+Sports,Product_11,Sep/2023,1017,1206,1135
+Sports,Product_11,Oct/2023,633,743,768
+Sports,Product_11,Nov/2023,651,941,1002
+Electronics,Product_12,Jan/2022,1905,1659,1597
+Electronics,Product_12,Jan/2022,805,1081,1058
+Electronics,Product_12,Mar/2022,674,628,558
+Electronics,Product_12,Apr/2022,1642,1768,1823
+Electronics,Product_12,May/2022,1720,1651,1749
+Electronics,Product_12,May/2022,1570,1659,1674
+Electronics,Product_12,Jun/2022,1406,1410,1460
+Electronics,Product_12,Jul/2022,1378,1390,1435
+Electronics,Product_12,Aug/2022,1771,1532,1588
+Electronics,Product_12,Sep/2022,703,615,675
+Electronics,Product_12,Oct/2022,932,902,971
+Electronics,Product_12,Nov/2022,666,526,487
+Electronics,Product_12,Dec/2022,855,1120,1039
+Electronics,Product_12,Jan/2023,820,522,526
+Electronics,Product_12,Feb/2023,1422,1603,1577
+Electronics,Product_12,Mar/2023,566,503,476
+Electronics,Product_12,Apr/2023,1947,1936,2015
+Electronics,Product_12,May/2023,1429,1201,1276
+Electronics,Product_12,Jun/2023,978,948,1008
+Electronics,Product_12,Jul/2023,1707,1609,1617
+Electronics,Product_12,Aug/2023,735,992,949
+Electronics,Product_12,Sep/2023,1826,1678,1646
+Electronics,Product_12,Oct/2023,791,564,479
+Electronics,Product_12,Nov/2023,839,853,905
+Electronics,Product_13,Jan/2022,1665,1660,1672
+Electronics,Product_13,Jan/2022,754,933,1009
+Electronics,Product_13,Mar/2022,1122,1234,1203
+Electronics,Product_13,Apr/2022,1524,1776,1802
+Electronics,Product_13,May/2022,1396,1178,1231
+Electronics,Product_13,May/2022,581,723,811
+Electronics,Product_13,Jun/2022,1160,1116,1022
+Electronics,Product_13,Jul/2022,687,621,693
+Electronics,Product_13,Aug/2022,1678,1399,1494
+Electronics,Product_13,Sep/2022,1876,1851,1898
+Electronics,Product_13,Oct/2022,582,461,481
+Electronics,Product_13,Nov/2022,1562,1714,1685
+Electronics,Product_13,Dec/2022,871,1170,1181
+Electronics,Product_13,Jan/2023,1800,2003,1926
+Electronics,Product_13,Feb/2023,1462,1518,1522
+Electronics,Product_13,Mar/2023,1182,1210,1281
+Electronics,Product_13,Apr/2023,714,578,562
+Electronics,Product_13,May/2023,1343,1550,1523
+Electronics,Product_13,Jun/2023,1856,1966,2060
+Electronics,Product_13,Jul/2023,1626,1363,1379
+Electronics,Product_13,Aug/2023,680,702,666
+Electronics,Product_13,Sep/2023,1162,980,1077
+Electronics,Product_13,Oct/2023,1327,1553,1453
+Electronics,Product_13,Nov/2023,1846,2101,2119
+Electronics,Product_14,Jan/2022,1346,1101,1049
+Electronics,Product_14,Jan/2022,1561,1631,1690
+Electronics,Product_14,Mar/2022,1520,1672,1766
+Electronics,Product_14,Apr/2022,605,513,481
+Electronics,Product_14,May/2022,1624,1458,1431
+Electronics,Product_14,May/2022,1397,1593,1524
+Electronics,Product_14,Jun/2022,559,504,585
+Electronics,Product_14,Jul/2022,824,842,883
+Electronics,Product_14,Aug/2022,528,793,797
+Electronics,Product_14,Sep/2022,690,620,549
+Electronics,Product_14,Oct/2022,1445,1265,1330
+Electronics,Product_14,Nov/2022,815,1025,1108
+Electronics,Product_14,Dec/2022,1097,1318,1398
+Electronics,Product_14,Jan/2023,1059,1184,1207
+Electronics,Product_14,Feb/2023,1467,1416,1432
+Electronics,Product_14,Mar/2023,1628,1476,1474
+Electronics,Product_14,Apr/2023,890,1110,1201
+Electronics,Product_14,May/2023,779,550,520
+Electronics,Product_14,Jun/2023,1349,1397,1426
+Electronics,Product_14,Jul/2023,1047,749,721
+Electronics,Product_14,Aug/2023,1986,1991,2041
+Electronics,Product_14,Sep/2023,1687,1888,1826
+Electronics,Product_14,Oct/2023,1414,1665,1688
+Electronics,Product_14,Nov/2023,1206,1246,1287
+Home & Kitchen,Product_15,Jan/2022,1612,1698,1714
+Home & Kitchen,Product_15,Jan/2022,1159,1052,1130
+Home & Kitchen,Product_15,Mar/2022,989,1274,1272
+Home & Kitchen,Product_15,Apr/2022,978,1098,1009
+Home & Kitchen,Product_15,May/2022,1151,1335,1415
+Home & Kitchen,Product_15,May/2022,1280,1375,1444
+Home & Kitchen,Product_15,Jun/2022,1835,1690,1716
+Home & Kitchen,Product_15,Jul/2022,575,404,432
+Home & Kitchen,Product_15,Aug/2022,1708,1747,1672
+Home & Kitchen,Product_15,Sep/2022,1401,1203,1237
+Home & Kitchen,Product_15,Oct/2022,1435,1150,1234
+Home & Kitchen,Product_15,Nov/2022,795,914,981
+Home & Kitchen,Product_15,Dec/2022,816,592,612
+Home & Kitchen,Product_15,Jan/2023,1042,1088,1147
+Home & Kitchen,Product_15,Feb/2023,1918,2025,2091
+Home & Kitchen,Product_15,Mar/2023,664,700,772
+Home & Kitchen,Product_15,Apr/2023,1592,1681,1662
+Home & Kitchen,Product_15,May/2023,1783,1982,2020
+Home & Kitchen,Product_15,Jun/2023,573,343,303
+Home & Kitchen,Product_15,Jul/2023,1792,1786,1744
+Home & Kitchen,Product_15,Aug/2023,685,829,754
+Home & Kitchen,Product_15,Sep/2023,1797,1599,1612
+Home & Kitchen,Product_15,Oct/2023,840,846,753
+Home & Kitchen,Product_15,Nov/2023,594,626,540
+Home & Kitchen,Product_16,Jan/2022,1100,1167,1162
+Home & Kitchen,Product_16,Jan/2022,1382,1231,1193
+Home & Kitchen,Product_16,Mar/2022,1587,1708,1752
+Home & Kitchen,Product_16,Apr/2022,1896,1780,1723
+Home & Kitchen,Product_16,May/2022,858,638,694
+Home & Kitchen,Product_16,May/2022,1283,1229,1256
+Home & Kitchen,Product_16,Jun/2022,1694,1540,1499
+Home & Kitchen,Product_16,Jul/2022,1444,1404,1421
+Home & Kitchen,Product_16,Aug/2022,1022,731,750
+Home & Kitchen,Product_16,Sep/2022,1089,1348,1288
+Home & Kitchen,Product_16,Oct/2022,651,803,791
+Home & Kitchen,Product_16,Nov/2022,1703,1709,1772
+Home & Kitchen,Product_16,Dec/2022,1368,1324,1340
+Home & Kitchen,Product_16,Jan/2023,1118,1021,1019
+Home & Kitchen,Product_16,Feb/2023,1489,1298,1258
+Home & Kitchen,Product_16,Mar/2023,1281,1566,1557
+Home & Kitchen,Product_16,Apr/2023,1677,1679,1758
+Home & Kitchen,Product_16,May/2023,1104,826,894
+Home & Kitchen,Product_16,Jun/2023,1310,1291,1193
+Home & Kitchen,Product_16,Jul/2023,1659,1409,1464
+Home & Kitchen,Product_16,Aug/2023,1517,1510,1608
+Home & Kitchen,Product_16,Sep/2023,971,1031,987
+Home & Kitchen,Product_16,Oct/2023,1803,1697,1755
+Home & Kitchen,Product_16,Nov/2023,1013,853,913
+Books,Product_17,Jan/2022,698,438,417
+Books,Product_17,Jan/2022,1402,1136,1184
+Books,Product_17,Mar/2022,1247,1081,1004
+Books,Product_17,Apr/2022,1104,1138,1229
+Books,Product_17,May/2022,1350,1229,1180
+Books,Product_17,May/2022,770,1022,1015
+Books,Product_17,Jun/2022,1587,1800,1769
+Books,Product_17,Jul/2022,836,799,822
+Books,Product_17,Aug/2022,1104,1150,1079
+Books,Product_17,Sep/2022,1459,1236,1172
+Books,Product_17,Oct/2022,962,1068,1110
+Books,Product_17,Nov/2022,1249,1041,1042
+Books,Product_17,Dec/2022,528,498,535
+Books,Product_17,Jan/2023,753,918,912
+Books,Product_17,Feb/2023,1877,1845,1894
+Books,Product_17,Mar/2023,1280,1360,1287
+Books,Product_17,Apr/2023,1882,1821,1841
+Books,Product_17,May/2023,551,825,808
+Books,Product_17,Jun/2023,1749,1675,1740
+Books,Product_17,Jul/2023,629,804,883
+Books,Product_17,Aug/2023,1118,1236,1165
+Books,Product_17,Sep/2023,786,532,441
+Books,Product_17,Oct/2023,1123,1327,1256
+Books,Product_17,Nov/2023,699,639,676
+Books,Product_18,Jan/2022,777,874,890
+Books,Product_18,Jan/2022,1259,1512,1519
+Books,Product_18,Mar/2022,1702,1560,1566
+Books,Product_18,Apr/2022,1841,1642,1667
+Books,Product_18,May/2022,1760,1877,1848
+Books,Product_18,May/2022,567,646,601
+Books,Product_18,Jun/2022,1408,1563,1523
+Books,Product_18,Jul/2022,1242,1043,1118
+Books,Product_18,Aug/2022,1252,1509,1574
+Books,Product_18,Sep/2022,1234,996,997
+Books,Product_18,Oct/2022,1065,959,890
+Books,Product_18,Nov/2022,1431,1224,1293
+Books,Product_18,Dec/2022,934,655,567
+Books,Product_18,Jan/2023,1183,1132,1064
+Books,Product_18,Feb/2023,1656,1566,1483
+Books,Product_18,Mar/2023,1635,1547,1597
+Books,Product_18,Apr/2023,942,880,864
+Books,Product_18,May/2023,802,504,474
+Books,Product_18,Jun/2023,796,629,667
+Books,Product_18,Jul/2023,1013,891,819
+Books,Product_18,Aug/2023,1853,1579,1512
+Books,Product_18,Sep/2023,530,596,556
+Books,Product_18,Oct/2023,1705,1736,1640
+Books,Product_18,Nov/2023,856,827,740
+Electronics,Product_19,Jan/2022,759,890,924
+Electronics,Product_19,Jan/2022,732,497,518
+Electronics,Product_19,Mar/2022,1418,1488,1519
+Electronics,Product_19,Apr/2022,1715,1526,1541
+Electronics,Product_19,May/2022,1531,1457,1514
+Electronics,Product_19,May/2022,588,821,798
+Electronics,Product_19,Jun/2022,1438,1169,1084
+Electronics,Product_19,Jul/2022,1480,1591,1600
+Electronics,Product_19,Aug/2022,1905,1715,1740
+Electronics,Product_19,Sep/2022,1958,2112,2030
+Electronics,Product_19,Oct/2022,665,694,749
+Electronics,Product_19,Nov/2022,803,570,502
+Electronics,Product_19,Dec/2022,1063,1362,1402
+Electronics,Product_19,Jan/2023,1958,1990,1987
+Electronics,Product_19,Feb/2023,1723,1966,1941
+Electronics,Product_19,Mar/2023,1429,1646,1700
+Electronics,Product_19,Apr/2023,1381,1182,1261
+Electronics,Product_19,May/2023,734,998,1082
+Electronics,Product_19,Jun/2023,940,1080,1095
+Electronics,Product_19,Jul/2023,967,1090,1076
+Electronics,Product_19,Aug/2023,1428,1536,1542
+Electronics,Product_19,Sep/2023,1994,1791,1771
+Electronics,Product_19,Oct/2023,1374,1394,1464
+Electronics,Product_19,Nov/2023,1022,1105,1044
+Books,Product_20,Jan/2022,1906,2091,2008
+Books,Product_20,Jan/2022,686,473,396
+Books,Product_20,Mar/2022,1384,1182,1272
+Books,Product_20,Apr/2022,1263,1096,1138
+Books,Product_20,May/2022,622,922,965
+Books,Product_20,May/2022,1650,1687,1758
+Books,Product_20,Jun/2022,750,870,860
+Books,Product_20,Jul/2022,1862,1995,2079
+Books,Product_20,Aug/2022,605,599,652
+Books,Product_20,Sep/2022,1139,1199,1125
+Books,Product_20,Oct/2022,1683,1902,1856
+Books,Product_20,Nov/2022,816,1009,966
+Books,Product_20,Dec/2022,721,779,821
+Books,Product_20,Jan/2023,1252,1069,1164
+Books,Product_20,Feb/2023,1070,1357,1314
+Books,Product_20,Mar/2023,1378,1652,1748
+Books,Product_20,Apr/2023,1773,2043,1949
+Books,Product_20,May/2023,1747,1720,1627
+Books,Product_20,Jun/2023,869,848,927
+Books,Product_20,Jul/2023,1132,1179,1168
+Books,Product_20,Aug/2023,512,397,333
+Books,Product_20,Sep/2023,1659,1769,1686
+Books,Product_20,Oct/2023,790,521,444
+Books,Product_20,Nov/2023,1586,1506,1502
+Home & Kitchen,Product_21,Jan/2022,1359,1523,1510
+Home & Kitchen,Product_21,Jan/2022,822,900,879
+Home & Kitchen,Product_21,Mar/2022,1977,2009,2107
+Home & Kitchen,Product_21,Apr/2022,1662,1448,1361
+Home & Kitchen,Product_21,May/2022,818,679,772
+Home & Kitchen,Product_21,May/2022,1765,1515,1587
+Home & Kitchen,Product_21,Jun/2022,667,645,658
+Home & Kitchen,Product_21,Jul/2022,1855,1989,2013
+Home & Kitchen,Product_21,Aug/2022,1743,1895,1901
+Home & Kitchen,Product_21,Sep/2022,1059,979,1072
+Home & Kitchen,Product_21,Oct/2022,1549,1365,1353
+Home & Kitchen,Product_21,Nov/2022,1380,1193,1165
+Home & Kitchen,Product_21,Dec/2022,1888,2086,2120
+Home & Kitchen,Product_21,Jan/2023,1866,1881,1792
+Home & Kitchen,Product_21,Feb/2023,951,1055,1108
+Home & Kitchen,Product_21,Mar/2023,612,319,271
+Home & Kitchen,Product_21,Apr/2023,1117,1033,1129
+Home & Kitchen,Product_21,May/2023,781,742,716
+Home & Kitchen,Product_21,Jun/2023,1171,993,894
+Home & Kitchen,Product_21,Jul/2023,1518,1658,1602
+Home & Kitchen,Product_21,Aug/2023,764,853,889
+Home & Kitchen,Product_21,Sep/2023,1941,1876,1904
+Home & Kitchen,Product_21,Oct/2023,1644,1706,1624
+Home & Kitchen,Product_21,Nov/2023,1313,1056,1067
+Books,Product_22,Jan/2022,538,708,627
+Books,Product_22,Jan/2022,1141,1430,1439
+Books,Product_22,Mar/2022,1674,1788,1869
+Books,Product_22,Apr/2022,1811,1938,1912
+Books,Product_22,May/2022,735,849,754
+Books,Product_22,May/2022,1165,1040,1098
+Books,Product_22,Jun/2022,1442,1512,1434
+Books,Product_22,Jul/2022,1394,1202,1164
+Books,Product_22,Aug/2022,1392,1502,1536
+Books,Product_22,Sep/2022,661,766,745
+Books,Product_22,Oct/2022,1195,1121,1106
+Books,Product_22,Nov/2022,844,622,652
+Books,Product_22,Dec/2022,1796,1612,1647
+Books,Product_22,Jan/2023,1544,1442,1540
+Books,Product_22,Feb/2023,1215,1274,1360
+Books,Product_22,Mar/2023,1821,1672,1632
+Books,Product_22,Apr/2023,710,559,524
+Books,Product_22,May/2023,904,781,835
+Books,Product_22,Jun/2023,813,590,535
+Books,Product_22,Jul/2023,1786,1991,2009
+Books,Product_22,Aug/2023,1654,1947,1961
+Books,Product_22,Sep/2023,1894,2172,2236
+Books,Product_22,Oct/2023,1801,1831,1891
+Books,Product_22,Nov/2023,1147,1001,1013
+Sports,Product_23,Jan/2022,639,819,832
+Sports,Product_23,Jan/2022,1793,1803,1773
+Sports,Product_23,Mar/2022,1711,1468,1458
+Sports,Product_23,Apr/2022,1539,1314,1293
+Sports,Product_23,May/2022,1445,1607,1516
+Sports,Product_23,May/2022,616,693,666
+Sports,Product_23,Jun/2022,657,449,506
+Sports,Product_23,Jul/2022,1716,1935,1933
+Sports,Product_23,Aug/2022,1447,1741,1782
+Sports,Product_23,Sep/2022,584,744,790
+Sports,Product_23,Oct/2022,1834,1726,1708
+Sports,Product_23,Nov/2022,1739,1926,1954
+Sports,Product_23,Dec/2022,808,571,586
+Sports,Product_23,Jan/2023,711,762,844
+Sports,Product_23,Feb/2023,672,888,953
+Sports,Product_23,Mar/2023,853,593,556
+Sports,Product_23,Apr/2023,1949,2097,2109
+Sports,Product_23,May/2023,1573,1808,1864
+Sports,Product_23,Jun/2023,825,897,892
+Sports,Product_23,Jul/2023,1079,1175,1179
+Sports,Product_23,Aug/2023,1192,945,1006
+Sports,Product_23,Sep/2023,1825,1867,1783
+Sports,Product_23,Oct/2023,1175,971,1013
+Sports,Product_23,Nov/2023,1889,1984,1956
+Home & Kitchen,Product_24,Jan/2022,1016,869,854
+Home & Kitchen,Product_24,Jan/2022,666,962,1031
+Home & Kitchen,Product_24,Mar/2022,789,847,826
+Home & Kitchen,Product_24,Apr/2022,1843,1944,1877
+Home & Kitchen,Product_24,May/2022,1718,1504,1483
+Home & Kitchen,Product_24,May/2022,1644,1729,1793
+Home & Kitchen,Product_24,Jun/2022,1172,1002,1073
+Home & Kitchen,Product_24,Jul/2022,1939,2178,2101
+Home & Kitchen,Product_24,Aug/2022,1823,1956,1986
+Home & Kitchen,Product_24,Sep/2022,1241,959,951
+Home & Kitchen,Product_24,Oct/2022,1132,1016,970
+Home & Kitchen,Product_24,Nov/2022,1199,1396,1345
+Home & Kitchen,Product_24,Dec/2022,963,803,742
+Home & Kitchen,Product_24,Jan/2023,658,660,585
+Home & Kitchen,Product_24,Feb/2023,1539,1791,1880
+Home & Kitchen,Product_24,Mar/2023,1578,1316,1385
+Home & Kitchen,Product_24,Apr/2023,1189,1023,1075
+Home & Kitchen,Product_24,May/2023,1271,1128,1069
+Home & Kitchen,Product_24,Jun/2023,870,739,823
+Home & Kitchen,Product_24,Jul/2023,1396,1140,1145
+Home & Kitchen,Product_24,Aug/2023,1246,1189,1202
+Home & Kitchen,Product_24,Sep/2023,1750,1741,1833
+Home & Kitchen,Product_24,Oct/2023,1419,1358,1394
+Home & Kitchen,Product_24,Nov/2023,989,1005,1105
+Sports,Product_25,Jan/2022,1460,1358,1352
+Sports,Product_25,Jan/2022,1889,2173,2185
+Sports,Product_25,Mar/2022,1445,1433,1532
+Sports,Product_25,Apr/2022,1282,1496,1531
+Sports,Product_25,May/2022,1357,1222,1173
+Sports,Product_25,May/2022,1738,1579,1543
+Sports,Product_25,Jun/2022,606,798,793
+Sports,Product_25,Jul/2022,1635,1440,1522
+Sports,Product_25,Aug/2022,1556,1383,1355
+Sports,Product_25,Sep/2022,671,535,504
+Sports,Product_25,Oct/2022,1420,1645,1582
+Sports,Product_25,Nov/2022,1395,1188,1144
+Sports,Product_25,Dec/2022,1423,1480,1386
+Sports,Product_25,Jan/2023,1349,1103,1104
+Sports,Product_25,Feb/2023,1528,1610,1570
+Sports,Product_25,Mar/2023,1290,1073,1068
+Sports,Product_25,Apr/2023,959,687,668
+Sports,Product_25,May/2023,702,745,682
+Sports,Product_25,Jun/2023,781,520,493
+Sports,Product_25,Jul/2023,1467,1309,1403
+Sports,Product_25,Aug/2023,1944,2124,2138
+Sports,Product_25,Sep/2023,1760,1465,1385
+Sports,Product_25,Oct/2023,538,500,455
+Sports,Product_25,Nov/2023,806,1067,1153
+Books,Product_26,Jan/2022,1746,1986,1994
+Books,Product_26,Jan/2022,727,722,682
+Books,Product_26,Mar/2022,1116,940,852
+Books,Product_26,Apr/2022,988,1117,1180
+Books,Product_26,May/2022,1775,1943,1859
+Books,Product_26,May/2022,727,938,990
+Books,Product_26,Jun/2022,1597,1313,1374
+Books,Product_26,Jul/2022,1555,1843,1804
+Books,Product_26,Aug/2022,1971,1818,1792
+Books,Product_26,Sep/2022,1379,1080,1137
+Books,Product_26,Oct/2022,1222,1168,1214
+Books,Product_26,Nov/2022,1353,1244,1314
+Books,Product_26,Dec/2022,1868,1655,1689
+Books,Product_26,Jan/2023,1238,1007,1041
+Books,Product_26,Feb/2023,1614,1833,1862
+Books,Product_26,Mar/2023,1634,1354,1353
+Books,Product_26,Apr/2023,1462,1206,1268
+Books,Product_26,May/2023,1292,1374,1338
+Books,Product_26,Jun/2023,533,598,515
+Books,Product_26,Jul/2023,1206,1152,1239
+Books,Product_26,Aug/2023,1845,1651,1748
+Books,Product_26,Sep/2023,1691,1731,1665
+Books,Product_26,Oct/2023,590,650,689
+Books,Product_26,Nov/2023,1193,1072,1171
+Clothing,Product_27,Jan/2022,1902,2077,2155
+Clothing,Product_27,Jan/2022,1480,1366,1300
+Clothing,Product_27,Mar/2022,629,797,706
+Clothing,Product_27,Apr/2022,1100,1006,917
+Clothing,Product_27,May/2022,908,650,630
+Clothing,Product_27,May/2022,1135,1362,1363
+Clothing,Product_27,Jun/2022,1612,1796,1760
+Clothing,Product_27,Jul/2022,574,469,442
+Clothing,Product_27,Aug/2022,1231,979,1046
+Clothing,Product_27,Sep/2022,1179,1158,1089
+Clothing,Product_27,Oct/2022,1253,1400,1402
+Clothing,Product_27,Nov/2022,1400,1495,1481
+Clothing,Product_27,Dec/2022,882,1090,1167
+Clothing,Product_27,Jan/2023,1518,1594,1626
+Clothing,Product_27,Feb/2023,1046,830,916
+Clothing,Product_27,Mar/2023,1369,1149,1159
+Clothing,Product_27,Apr/2023,1733,1617,1656
+Clothing,Product_27,May/2023,1101,1129,1055
+Clothing,Product_27,Jun/2023,663,698,767
+Clothing,Product_27,Jul/2023,1105,1118,1132
+Clothing,Product_27,Aug/2023,1734,1870,1812
+Clothing,Product_27,Sep/2023,1912,2066,2055
+Clothing,Product_27,Oct/2023,1415,1158,1244
+Clothing,Product_27,Nov/2023,1222,1367,1337
+Electronics,Product_28,Jan/2022,1809,1567,1486
+Electronics,Product_28,Jan/2022,1874,1989,1982
+Electronics,Product_28,Mar/2022,1550,1413,1320
+Electronics,Product_28,Apr/2022,792,940,848
+Electronics,Product_28,May/2022,758,526,486
+Electronics,Product_28,May/2022,1821,1896,1888
+Electronics,Product_28,Jun/2022,1284,1564,1472
+Electronics,Product_28,Jul/2022,1739,1596,1669
+Electronics,Product_28,Aug/2022,1421,1500,1495
+Electronics,Product_28,Sep/2022,1409,1187,1233
+Electronics,Product_28,Oct/2022,781,1023,1016
+Electronics,Product_28,Nov/2022,1315,1336,1402
+Electronics,Product_28,Dec/2022,1070,1025,954
+Electronics,Product_28,Jan/2023,553,443,470
+Electronics,Product_28,Feb/2023,1560,1656,1699
+Electronics,Product_28,Mar/2023,741,709,807
+Electronics,Product_28,Apr/2023,1033,1189,1143
+Electronics,Product_28,May/2023,1753,1745,1822
+Electronics,Product_28,Jun/2023,1505,1409,1340
+Electronics,Product_28,Jul/2023,777,552,567
+Electronics,Product_28,Aug/2023,853,1008,930
+Electronics,Product_28,Sep/2023,1896,1923,1993
+Electronics,Product_28,Oct/2023,1211,977,1017
+Electronics,Product_28,Nov/2023,1610,1607,1583
+Home & Kitchen,Product_29,Jan/2022,822,700,692
+Home & Kitchen,Product_29,Jan/2022,1541,1470,1401
+Home & Kitchen,Product_29,Mar/2022,911,753,713
+Home & Kitchen,Product_29,Apr/2022,1511,1237,1229
+Home & Kitchen,Product_29,May/2022,1634,1920,1914
+Home & Kitchen,Product_29,May/2022,1457,1721,1654
+Home & Kitchen,Product_29,Jun/2022,1753,1541,1457
+Home & Kitchen,Product_29,Jul/2022,1133,1240,1323
+Home & Kitchen,Product_29,Aug/2022,1972,2162,2196
+Home & Kitchen,Product_29,Sep/2022,1341,1460,1507
+Home & Kitchen,Product_29,Oct/2022,651,479,460
+Home & Kitchen,Product_29,Nov/2022,1815,1590,1605
+Home & Kitchen,Product_29,Dec/2022,1454,1683,1671
+Home & Kitchen,Product_29,Jan/2023,762,1026,1089
+Home & Kitchen,Product_29,Feb/2023,1703,1589,1685
+Home & Kitchen,Product_29,Mar/2023,764,907,935
+Home & Kitchen,Product_29,Apr/2023,613,440,472
+Home & Kitchen,Product_29,May/2023,813,824,766
+Home & Kitchen,Product_29,Jun/2023,831,861,942
+Home & Kitchen,Product_29,Jul/2023,961,1015,1047
+Home & Kitchen,Product_29,Aug/2023,1081,861,825
+Home & Kitchen,Product_29,Sep/2023,902,1166,1136
+Home & Kitchen,Product_29,Oct/2023,756,766,823
+Home & Kitchen,Product_29,Nov/2023,1592,1387,1415
+Sports,Product_30,Jan/2022,1812,1684,1735
+Sports,Product_30,Jan/2022,1689,1546,1489
+Sports,Product_30,Mar/2022,1849,1894,1938
+Sports,Product_30,Apr/2022,584,313,233
+Sports,Product_30,May/2022,593,883,850
+Sports,Product_30,May/2022,1833,1748,1844
+Sports,Product_30,Jun/2022,1671,1797,1855
+Sports,Product_30,Jul/2022,1808,1539,1566
+Sports,Product_30,Aug/2022,1784,2042,2016
+Sports,Product_30,Sep/2022,1814,1823,1846
+Sports,Product_30,Oct/2022,1001,1116,1092
+Sports,Product_30,Nov/2022,1428,1202,1278
+Sports,Product_30,Dec/2022,622,483,495
+Sports,Product_30,Jan/2023,1351,1546,1564
+Sports,Product_30,Feb/2023,917,965,1020
+Sports,Product_30,Mar/2023,794,814,897
+Sports,Product_30,Apr/2023,1153,1206,1208
+Sports,Product_30,May/2023,767,846,877
+Sports,Product_30,Jun/2023,1650,1458,1439
+Sports,Product_30,Jul/2023,995,1172,1103
+Sports,Product_30,Aug/2023,1047,1207,1170
+Sports,Product_30,Sep/2023,788,587,499
+Sports,Product_30,Oct/2023,1094,1187,1244
+Sports,Product_30,Nov/2023,1356,1310,1250
+Clothing,Product_31,Jan/2022,1170,1461,1545
+Clothing,Product_31,Jan/2022,1140,1034,1129
+Clothing,Product_31,Mar/2022,826,1036,1067
+Clothing,Product_31,Apr/2022,1456,1666,1644
+Clothing,Product_31,May/2022,1518,1241,1164
+Clothing,Product_31,May/2022,1305,1522,1539
+Clothing,Product_31,Jun/2022,993,913,962
+Clothing,Product_31,Jul/2022,1222,971,883
+Clothing,Product_31,Aug/2022,1076,1282,1334
+Clothing,Product_31,Sep/2022,1839,2020,1993
+Clothing,Product_31,Oct/2022,1599,1307,1234
+Clothing,Product_31,Nov/2022,1382,1219,1186
+Clothing,Product_31,Dec/2022,1989,2063,2158
+Clothing,Product_31,Jan/2023,1325,1399,1310
+Clothing,Product_31,Feb/2023,1320,1072,1117
+Clothing,Product_31,Mar/2023,1650,1549,1541
+Clothing,Product_31,Apr/2023,1633,1628,1546
+Clothing,Product_31,May/2023,1291,1507,1522
+Clothing,Product_31,Jun/2023,1626,1612,1671
+Clothing,Product_31,Jul/2023,1893,1714,1646
+Clothing,Product_31,Aug/2023,698,801,796
+Clothing,Product_31,Sep/2023,1194,1465,1458
+Clothing,Product_31,Oct/2023,795,698,752
+Clothing,Product_31,Nov/2023,1542,1653,1681
+Clothing,Product_32,Jan/2022,582,328,237
+Clothing,Product_32,Jan/2022,780,821,842
+Clothing,Product_32,Mar/2022,1563,1730,1668
+Clothing,Product_32,Apr/2022,1741,1968,1903
+Clothing,Product_32,May/2022,1171,1197,1138
+Clothing,Product_32,May/2022,1304,1310,1361
+Clothing,Product_32,Jun/2022,1188,1407,1437
+Clothing,Product_32,Jul/2022,1590,1791,1872
+Clothing,Product_32,Aug/2022,1652,1658,1679
+Clothing,Product_32,Sep/2022,534,611,595
+Clothing,Product_32,Oct/2022,1879,1691,1697
+Clothing,Product_32,Nov/2022,1695,1710,1795
+Clothing,Product_32,Dec/2022,1909,1636,1688
+Clothing,Product_32,Jan/2023,1471,1442,1509
+Clothing,Product_32,Feb/2023,1684,1975,1933
+Clothing,Product_32,Mar/2023,1977,1729,1778
+Clothing,Product_32,Apr/2023,1483,1357,1391
+Clothing,Product_32,May/2023,1788,1877,1814
+Clothing,Product_32,Jun/2023,1894,1842,1750
+Clothing,Product_32,Jul/2023,1672,1484,1432
+Clothing,Product_32,Aug/2023,538,689,669
+Clothing,Product_32,Sep/2023,1357,1212,1217
+Clothing,Product_32,Oct/2023,1914,1822,1827
+Clothing,Product_32,Nov/2023,1527,1709,1797
+Home & Kitchen,Product_33,Jan/2022,1989,1752,1832
+Home & Kitchen,Product_33,Jan/2022,782,1013,966
+Home & Kitchen,Product_33,Mar/2022,1648,1680,1749
+Home & Kitchen,Product_33,Apr/2022,1479,1717,1713
+Home & Kitchen,Product_33,May/2022,1142,1019,1036
+Home & Kitchen,Product_33,May/2022,1591,1641,1680
+Home & Kitchen,Product_33,Jun/2022,1225,1195,1251
+Home & Kitchen,Product_33,Jul/2022,1491,1387,1350
+Home & Kitchen,Product_33,Aug/2022,1071,1342,1318
+Home & Kitchen,Product_33,Sep/2022,960,964,1061
+Home & Kitchen,Product_33,Oct/2022,1091,1003,1079
+Home & Kitchen,Product_33,Nov/2022,1943,2143,2124
+Home & Kitchen,Product_33,Dec/2022,1482,1539,1582
+Home & Kitchen,Product_33,Jan/2023,1977,1957,1930
+Home & Kitchen,Product_33,Feb/2023,749,1036,1109
+Home & Kitchen,Product_33,Mar/2023,1612,1700,1701
+Home & Kitchen,Product_33,Apr/2023,1206,1055,1029
+Home & Kitchen,Product_33,May/2023,586,580,662
+Home & Kitchen,Product_33,Jun/2023,661,715,728
+Home & Kitchen,Product_33,Jul/2023,1843,1805,1896
+Home & Kitchen,Product_33,Aug/2023,1481,1400,1351
+Home & Kitchen,Product_33,Sep/2023,1603,1580,1623
+Home & Kitchen,Product_33,Oct/2023,1925,1903,1838
+Home & Kitchen,Product_33,Nov/2023,723,1023,984
+Home & Kitchen,Product_34,Jan/2022,996,747,818
+Home & Kitchen,Product_34,Jan/2022,1587,1518,1581
+Home & Kitchen,Product_34,Mar/2022,976,729,654
+Home & Kitchen,Product_34,Apr/2022,1346,1384,1467
+Home & Kitchen,Product_34,May/2022,1467,1269,1343
+Home & Kitchen,Product_34,May/2022,781,486,526
+Home & Kitchen,Product_34,Jun/2022,823,939,1006
+Home & Kitchen,Product_34,Jul/2022,1474,1662,1728
+Home & Kitchen,Product_34,Aug/2022,908,902,884
+Home & Kitchen,Product_34,Sep/2022,1084,844,940
+Home & Kitchen,Product_34,Oct/2022,683,970,929
+Home & Kitchen,Product_34,Nov/2022,1595,1333,1277
+Home & Kitchen,Product_34,Dec/2022,1355,1235,1144
+Home & Kitchen,Product_34,Jan/2023,1313,1520,1467
+Home & Kitchen,Product_34,Feb/2023,1092,830,732
+Home & Kitchen,Product_34,Mar/2023,1111,1392,1446
+Home & Kitchen,Product_34,Apr/2023,719,762,734
+Home & Kitchen,Product_34,May/2023,1430,1686,1720
+Home & Kitchen,Product_34,Jun/2023,1511,1348,1377
+Home & Kitchen,Product_34,Jul/2023,1458,1437,1386
+Home & Kitchen,Product_34,Aug/2023,730,768,709
+Home & Kitchen,Product_34,Sep/2023,1997,2166,2231
+Home & Kitchen,Product_34,Oct/2023,1026,916,819
+Home & Kitchen,Product_34,Nov/2023,1190,1192,1237
+Clothing,Product_35,Jan/2022,1881,1778,1722
+Clothing,Product_35,Jan/2022,1751,1866,1875
+Clothing,Product_35,Mar/2022,1555,1590,1512
+Clothing,Product_35,Apr/2022,1320,1117,1064
+Clothing,Product_35,May/2022,787,975,957
+Clothing,Product_35,May/2022,1008,714,680
+Clothing,Product_35,Jun/2022,1285,1226,1240
+Clothing,Product_35,Jul/2022,1046,1083,1060
+Clothing,Product_35,Aug/2022,1692,1978,1880
+Clothing,Product_35,Sep/2022,1035,1103,1180
+Clothing,Product_35,Oct/2022,983,746,816
+Clothing,Product_35,Nov/2022,742,918,896
+Clothing,Product_35,Dec/2022,827,942,1017
+Clothing,Product_35,Jan/2023,1529,1547,1623
+Clothing,Product_35,Feb/2023,740,742,736
+Clothing,Product_35,Mar/2023,1758,1684,1640
+Clothing,Product_35,Apr/2023,773,962,901
+Clothing,Product_35,May/2023,1431,1513,1519
+Clothing,Product_35,Jun/2023,1937,2199,2219
+Clothing,Product_35,Jul/2023,1600,1523,1618
+Clothing,Product_35,Aug/2023,1006,789,823
+Clothing,Product_35,Sep/2023,1414,1654,1734
+Clothing,Product_35,Oct/2023,1240,1019,1063
+Clothing,Product_35,Nov/2023,729,492,532
+Electronics,Product_36,Jan/2022,1535,1442,1488
+Electronics,Product_36,Jan/2022,1599,1452,1394
+Electronics,Product_36,Mar/2022,1171,1403,1416
+Electronics,Product_36,Apr/2022,738,648,731
+Electronics,Product_36,May/2022,1694,1894,1817
+Electronics,Product_36,May/2022,1545,1701,1615
+Electronics,Product_36,Jun/2022,1428,1263,1294
+Electronics,Product_36,Jul/2022,1350,1517,1561
+Electronics,Product_36,Aug/2022,618,890,908
+Electronics,Product_36,Sep/2022,1877,1892,1977
+Electronics,Product_36,Oct/2022,544,649,614
+Electronics,Product_36,Nov/2022,506,429,477
+Electronics,Product_36,Dec/2022,649,395,403
+Electronics,Product_36,Jan/2023,1205,970,1008
+Electronics,Product_36,Feb/2023,623,393,413
+Electronics,Product_36,Mar/2023,564,557,561
+Electronics,Product_36,Apr/2023,868,706,802
+Electronics,Product_36,May/2023,1813,1943,1938
+Electronics,Product_36,Jun/2023,1283,1442,1438
+Electronics,Product_36,Jul/2023,1269,1051,1125
+Electronics,Product_36,Aug/2023,1855,2107,2041
+Electronics,Product_36,Sep/2023,1838,1894,1824
+Electronics,Product_36,Oct/2023,865,1115,1115
+Electronics,Product_36,Nov/2023,1583,1413,1499
+Electronics,Product_37,Jan/2022,956,659,752
+Electronics,Product_37,Jan/2022,546,551,569
+Electronics,Product_37,Mar/2022,1879,2136,2144
+Electronics,Product_37,Apr/2022,1589,1677,1635
+Electronics,Product_37,May/2022,1006,1177,1165
+Electronics,Product_37,May/2022,817,799,747
+Electronics,Product_37,Jun/2022,1984,1799,1707
+Electronics,Product_37,Jul/2022,1852,1981,2038
+Electronics,Product_37,Aug/2022,532,478,430
+Electronics,Product_37,Sep/2022,637,440,492
+Electronics,Product_37,Oct/2022,568,725,778
+Electronics,Product_37,Nov/2022,1876,1625,1587
+Electronics,Product_37,Dec/2022,590,701,713
+Electronics,Product_37,Jan/2023,979,1231,1186
+Electronics,Product_37,Feb/2023,615,458,486
+Electronics,Product_37,Mar/2023,1092,1031,1118
+Electronics,Product_37,Apr/2023,1679,1705,1752
+Electronics,Product_37,May/2023,1724,1752,1712
+Electronics,Product_37,Jun/2023,1118,964,1033
+Electronics,Product_37,Jul/2023,1567,1493,1498
+Electronics,Product_37,Aug/2023,1115,1096,1011
+Electronics,Product_37,Sep/2023,1640,1519,1579
+Electronics,Product_37,Oct/2023,1890,2027,2069
+Electronics,Product_37,Nov/2023,1515,1263,1251
+Sports,Product_38,Jan/2022,1817,1907,1941
+Sports,Product_38,Jan/2022,1152,1278,1282
+Sports,Product_38,Mar/2022,805,812,808
+Sports,Product_38,Apr/2022,876,1126,1147
+Sports,Product_38,May/2022,993,923,899
+Sports,Product_38,May/2022,1949,1796,1814
+Sports,Product_38,Jun/2022,618,893,898
+Sports,Product_38,Jul/2022,1353,1623,1658
+Sports,Product_38,Aug/2022,774,871,833
+Sports,Product_38,Sep/2022,1022,930,914
+Sports,Product_38,Oct/2022,1824,1604,1619
+Sports,Product_38,Nov/2022,1259,1053,1090
+Sports,Product_38,Dec/2022,1983,1878,1791
+Sports,Product_38,Jan/2023,1049,1135,1207
+Sports,Product_38,Feb/2023,1738,1478,1396
+Sports,Product_38,Mar/2023,885,1157,1112
+Sports,Product_38,Apr/2023,1481,1394,1379
+Sports,Product_38,May/2023,1120,835,789
+Sports,Product_38,Jun/2023,889,709,800
+Sports,Product_38,Jul/2023,1480,1428,1506
+Sports,Product_38,Aug/2023,1737,1646,1647
+Sports,Product_38,Sep/2023,990,1255,1237
+Sports,Product_38,Oct/2023,1079,1168,1187
+Sports,Product_38,Nov/2023,1592,1659,1637
+Electronics,Product_39,Jan/2022,1035,1103,1134
+Electronics,Product_39,Jan/2022,1518,1695,1620
+Electronics,Product_39,Mar/2022,1979,2159,2253
+Electronics,Product_39,Apr/2022,1155,1063,1057
+Electronics,Product_39,May/2022,1140,1263,1174
+Electronics,Product_39,May/2022,1652,1578,1667
+Electronics,Product_39,Jun/2022,798,514,480
+Electronics,Product_39,Jul/2022,1633,1931,1979
+Electronics,Product_39,Aug/2022,1974,2101,2076
+Electronics,Product_39,Sep/2022,812,712,696
+Electronics,Product_39,Oct/2022,971,1059,1104
+Electronics,Product_39,Nov/2022,1003,1214,1254
+Electronics,Product_39,Dec/2022,1840,1885,1850
+Electronics,Product_39,Jan/2023,1500,1702,1719
+Electronics,Product_39,Feb/2023,844,904,847
+Electronics,Product_39,Mar/2023,786,1045,1070
+Electronics,Product_39,Apr/2023,876,1131,1195
+Electronics,Product_39,May/2023,620,856,764
+Electronics,Product_39,Jun/2023,652,401,496
+Electronics,Product_39,Jul/2023,513,635,570
+Electronics,Product_39,Aug/2023,1791,1727,1644
+Electronics,Product_39,Sep/2023,1948,1802,1704
+Electronics,Product_39,Oct/2023,947,1164,1180
+Electronics,Product_39,Nov/2023,1264,1025,1083
+Clothing,Product_40,Jan/2022,1806,2000,2068
+Clothing,Product_40,Jan/2022,1499,1215,1116
+Clothing,Product_40,Mar/2022,1589,1853,1858
+Clothing,Product_40,Apr/2022,524,241,276
+Clothing,Product_40,May/2022,1979,1960,1997
+Clothing,Product_40,May/2022,1087,804,832
+Clothing,Product_40,Jun/2022,1929,2069,2014
+Clothing,Product_40,Jul/2022,719,517,551
+Clothing,Product_40,Aug/2022,804,750,699
+Clothing,Product_40,Sep/2022,1769,2008,1972
+Clothing,Product_40,Oct/2022,1225,1198,1199
+Clothing,Product_40,Nov/2022,661,743,746
+Clothing,Product_40,Dec/2022,1440,1718,1680
+Clothing,Product_40,Jan/2023,1927,1858,1834
+Clothing,Product_40,Feb/2023,1900,1682,1749
+Clothing,Product_40,Mar/2023,1830,1562,1485
+Clothing,Product_40,Apr/2023,1330,1418,1414
+Clothing,Product_40,May/2023,1631,1818,1732
+Clothing,Product_40,Jun/2023,1804,1513,1592
+Clothing,Product_40,Jul/2023,850,634,661
+Clothing,Product_40,Aug/2023,1388,1427,1471
+Clothing,Product_40,Sep/2023,695,935,845
+Clothing,Product_40,Oct/2023,970,886,963
+Clothing,Product_40,Nov/2023,1660,1846,1815
+Clothing,Product_41,Jan/2022,595,371,446
+Clothing,Product_41,Jan/2022,1074,1330,1374
+Clothing,Product_41,Mar/2022,1847,1580,1525
+Clothing,Product_41,Apr/2022,1144,860,813
+Clothing,Product_41,May/2022,1702,1549,1641
+Clothing,Product_41,May/2022,1959,2066,1985
+Clothing,Product_41,Jun/2022,1112,978,1022
+Clothing,Product_41,Jul/2022,992,1272,1271
+Clothing,Product_41,Aug/2022,1886,2139,2123
+Clothing,Product_41,Sep/2022,1286,1129,1205
+Clothing,Product_41,Oct/2022,1983,1763,1791
+Clothing,Product_41,Nov/2022,1208,962,887
+Clothing,Product_41,Dec/2022,1395,1332,1251
+Clothing,Product_41,Jan/2023,1197,1303,1401
+Clothing,Product_41,Feb/2023,1168,898,960
+Clothing,Product_41,Mar/2023,1059,1220,1245
+Clothing,Product_41,Apr/2023,967,1031,1072
+Clothing,Product_41,May/2023,1268,1410,1357
+Clothing,Product_41,Jun/2023,1892,2191,2260
+Clothing,Product_41,Jul/2023,1278,1065,1162
+Clothing,Product_41,Aug/2023,1766,1768,1731
+Clothing,Product_41,Sep/2023,1960,1735,1656
+Clothing,Product_41,Oct/2023,1048,905,902
+Clothing,Product_41,Nov/2023,1957,1814,1903
+Books,Product_42,Jan/2022,1297,1321,1313
+Books,Product_42,Jan/2022,718,511,412
+Books,Product_42,Mar/2022,1131,1286,1278
+Books,Product_42,Apr/2022,1052,856,789
+Books,Product_42,May/2022,678,569,579
+Books,Product_42,May/2022,1419,1689,1731
+Books,Product_42,Jun/2022,1549,1666,1592
+Books,Product_42,Jul/2022,553,344,334
+Books,Product_42,Aug/2022,1635,1430,1482
+Books,Product_42,Sep/2022,1724,1756,1754
+Books,Product_42,Oct/2022,525,523,528
+Books,Product_42,Nov/2022,1294,1080,1165
+Books,Product_42,Dec/2022,1645,1593,1639
+Books,Product_42,Jan/2023,1567,1440,1515
+Books,Product_42,Feb/2023,1279,1152,1087
+Books,Product_42,Mar/2023,1050,1058,1026
+Books,Product_42,Apr/2023,1509,1358,1274
+Books,Product_42,May/2023,842,987,957
+Books,Product_42,Jun/2023,1362,1368,1391
+Books,Product_42,Jul/2023,657,726,690
+Books,Product_42,Aug/2023,1005,1212,1264
+Books,Product_42,Sep/2023,1762,1662,1679
+Books,Product_42,Oct/2023,719,557,534
+Books,Product_42,Nov/2023,513,618,603
+Clothing,Product_43,Jan/2022,1770,1859,1843
+Clothing,Product_43,Jan/2022,1401,1443,1453
+Clothing,Product_43,Mar/2022,1833,1672,1648
+Clothing,Product_43,Apr/2022,1156,1061,1083
+Clothing,Product_43,May/2022,1143,1024,1025
+Clothing,Product_43,May/2022,1153,1151,1239
+Clothing,Product_43,Jun/2022,1923,2125,2172
+Clothing,Product_43,Jul/2022,996,1029,1025
+Clothing,Product_43,Aug/2022,1074,1176,1169
+Clothing,Product_43,Sep/2022,733,1010,961
+Clothing,Product_43,Oct/2022,1712,1970,1916
+Clothing,Product_43,Nov/2022,1896,2159,2065
+Clothing,Product_43,Dec/2022,1989,2161,2242
+Clothing,Product_43,Jan/2023,929,1077,1051
+Clothing,Product_43,Feb/2023,1918,1688,1692
+Clothing,Product_43,Mar/2023,1878,2089,2024
+Clothing,Product_43,Apr/2023,1797,1807,1768
+Clothing,Product_43,May/2023,1017,874,957
+Clothing,Product_43,Jun/2023,1366,1452,1370
+Clothing,Product_43,Jul/2023,1419,1609,1658
+Clothing,Product_43,Aug/2023,1320,1567,1596
+Clothing,Product_43,Sep/2023,1916,2044,2083
+Clothing,Product_43,Oct/2023,575,643,722
+Clothing,Product_43,Nov/2023,1599,1386,1313
+Electronics,Product_44,Jan/2022,1008,1071,1013
+Electronics,Product_44,Jan/2022,1825,1570,1614
+Electronics,Product_44,Mar/2022,1821,1930,2022
+Electronics,Product_44,Apr/2022,1179,1319,1246
+Electronics,Product_44,May/2022,521,321,287
+Electronics,Product_44,May/2022,954,1176,1267
+Electronics,Product_44,Jun/2022,1562,1833,1881
+Electronics,Product_44,Jul/2022,1908,2197,2153
+Electronics,Product_44,Aug/2022,1412,1495,1495
+Electronics,Product_44,Sep/2022,1448,1660,1598
+Electronics,Product_44,Oct/2022,1206,931,954
+Electronics,Product_44,Nov/2022,714,716,722
+Electronics,Product_44,Dec/2022,675,493,579
+Electronics,Product_44,Jan/2023,790,846,825
+Electronics,Product_44,Feb/2023,1202,1368,1468
+Electronics,Product_44,Mar/2023,923,1156,1179
+Electronics,Product_44,Apr/2023,1213,1400,1324
+Electronics,Product_44,May/2023,1397,1560,1541
+Electronics,Product_44,Jun/2023,637,644,555
+Electronics,Product_44,Jul/2023,1955,1772,1677
+Electronics,Product_44,Aug/2023,1202,1013,1086
+Electronics,Product_44,Sep/2023,836,785,817
+Electronics,Product_44,Oct/2023,857,1122,1062
+Electronics,Product_44,Nov/2023,1177,1450,1459
+Sports,Product_45,Jan/2022,1446,1383,1386
+Sports,Product_45,Jan/2022,1789,1677,1624
+Sports,Product_45,Mar/2022,1811,1953,1954
+Sports,Product_45,Apr/2022,559,461,476
+Sports,Product_45,May/2022,1712,1851,1850
+Sports,Product_45,May/2022,509,428,380
+Sports,Product_45,Jun/2022,1070,834,881
+Sports,Product_45,Jul/2022,708,957,904
+Sports,Product_45,Aug/2022,1249,1282,1232
+Sports,Product_45,Sep/2022,1437,1253,1220
+Sports,Product_45,Oct/2022,1873,2074,2109
+Sports,Product_45,Nov/2022,1808,1828,1880
+Sports,Product_45,Dec/2022,1295,1396,1446
+Sports,Product_45,Jan/2023,733,789,779
+Sports,Product_45,Feb/2023,1437,1313,1385
+Sports,Product_45,Mar/2023,1945,1949,2006
+Sports,Product_45,Apr/2023,1708,1494,1566
+Sports,Product_45,May/2023,774,794,724
+Sports,Product_45,Jun/2023,988,1000,929
+Sports,Product_45,Jul/2023,874,956,1033
+Sports,Product_45,Aug/2023,789,1012,1011
+Sports,Product_45,Sep/2023,1356,1197,1244
+Sports,Product_45,Oct/2023,1285,1418,1365
+Sports,Product_45,Nov/2023,1496,1746,1823
+Books,Product_46,Jan/2022,1821,1698,1740
+Books,Product_46,Jan/2022,841,1042,1015
+Books,Product_46,Mar/2022,787,678,658
+Books,Product_46,Apr/2022,1423,1177,1168
+Books,Product_46,May/2022,519,715,649
+Books,Product_46,May/2022,899,992,1035
+Books,Product_46,Jun/2022,1535,1741,1745
+Books,Product_46,Jul/2022,1902,2105,2111
+Books,Product_46,Aug/2022,1954,2108,2133
+Books,Product_46,Sep/2022,842,626,670
+Books,Product_46,Oct/2022,563,488,462
+Books,Product_46,Nov/2022,566,547,504
+Books,Product_46,Dec/2022,1601,1596,1539
+Books,Product_46,Jan/2023,1436,1715,1805
+Books,Product_46,Feb/2023,1514,1776,1806
+Books,Product_46,Mar/2023,731,1017,946
+Books,Product_46,Apr/2023,1048,1304,1297
+Books,Product_46,May/2023,1610,1352,1446
+Books,Product_46,Jun/2023,1972,2123,2162
+Books,Product_46,Jul/2023,947,1082,1008
+Books,Product_46,Aug/2023,1838,1791,1767
+Books,Product_46,Sep/2023,566,726,693
+Books,Product_46,Oct/2023,1213,1002,1014
+Books,Product_46,Nov/2023,740,682,635
+Electronics,Product_47,Jan/2022,1704,1763,1844
+Electronics,Product_47,Jan/2022,1749,1887,1829
+Electronics,Product_47,Mar/2022,1761,1603,1703
+Electronics,Product_47,Apr/2022,923,834,749
+Electronics,Product_47,May/2022,1667,1726,1762
+Electronics,Product_47,May/2022,1075,1326,1269
+Electronics,Product_47,Jun/2022,1162,1161,1135
+Electronics,Product_47,Jul/2022,1672,1645,1676
+Electronics,Product_47,Aug/2022,1891,1688,1622
+Electronics,Product_47,Sep/2022,1342,1102,1072
+Electronics,Product_47,Oct/2022,1843,1672,1751
+Electronics,Product_47,Nov/2022,771,726,663
+Electronics,Product_47,Dec/2022,1956,1985,1948
+Electronics,Product_47,Jan/2023,1884,1986,2011
+Electronics,Product_47,Feb/2023,791,1082,1143
+Electronics,Product_47,Mar/2023,1050,1174,1170
+Electronics,Product_47,Apr/2023,1425,1202,1264
+Electronics,Product_47,May/2023,690,802,833
+Electronics,Product_47,Jun/2023,1069,1146,1162
+Electronics,Product_47,Jul/2023,1499,1534,1582
+Electronics,Product_47,Aug/2023,505,300,387
+Electronics,Product_47,Sep/2023,1438,1504,1420
+Electronics,Product_47,Oct/2023,1594,1701,1656
+Electronics,Product_47,Nov/2023,1379,1295,1321
+Sports,Product_48,Jan/2022,1049,1079,1051
+Sports,Product_48,Jan/2022,1191,1451,1498
+Sports,Product_48,Mar/2022,767,1046,1070
+Sports,Product_48,Apr/2022,1203,952,863
+Sports,Product_48,May/2022,703,873,777
+Sports,Product_48,May/2022,754,615,627
+Sports,Product_48,Jun/2022,1434,1134,1143
+Sports,Product_48,Jul/2022,914,749,815
+Sports,Product_48,Aug/2022,1118,980,950
+Sports,Product_48,Sep/2022,691,760,724
+Sports,Product_48,Oct/2022,668,748,818
+Sports,Product_48,Nov/2022,1828,1697,1610
+Sports,Product_48,Dec/2022,1311,1323,1408
+Sports,Product_48,Jan/2023,1932,1871,1880
+Sports,Product_48,Feb/2023,1842,1635,1715
+Sports,Product_48,Mar/2023,694,395,349
+Sports,Product_48,Apr/2023,1476,1255,1188
+Sports,Product_48,May/2023,1715,1646,1678
+Sports,Product_48,Jun/2023,1892,2047,1949
+Sports,Product_48,Jul/2023,516,567,497
+Sports,Product_48,Aug/2023,1364,1199,1221
+Sports,Product_48,Sep/2023,645,579,577
+Sports,Product_48,Oct/2023,682,486,412
+Sports,Product_48,Nov/2023,1141,1217,1193
+Electronics,Product_49,Jan/2022,780,871,969
+Electronics,Product_49,Jan/2022,772,618,535
+Electronics,Product_49,Mar/2022,1586,1862,1764
+Electronics,Product_49,Apr/2022,1749,1617,1629
+Electronics,Product_49,May/2022,1219,1137,1197
+Electronics,Product_49,May/2022,810,931,988
+Electronics,Product_49,Jun/2022,1906,2059,2014
+Electronics,Product_49,Jul/2022,677,479,414
+Electronics,Product_49,Aug/2022,752,845,834
+Electronics,Product_49,Sep/2022,1379,1401,1336
+Electronics,Product_49,Oct/2022,1007,990,1055
+Electronics,Product_49,Nov/2022,672,626,667
+Electronics,Product_49,Dec/2022,1730,1721,1820
+Electronics,Product_49,Jan/2023,1914,1641,1709
+Electronics,Product_49,Feb/2023,1117,1027,1059
+Electronics,Product_49,Mar/2023,1742,1963,1911
+Electronics,Product_49,Apr/2023,1302,1304,1369
+Electronics,Product_49,May/2023,611,556,582
+Electronics,Product_49,Jun/2023,1290,1105,1066
+Electronics,Product_49,Jul/2023,1523,1295,1330
+Electronics,Product_49,Aug/2023,524,593,574
+Electronics,Product_49,Sep/2023,770,866,911
+Electronics,Product_49,Oct/2023,1361,1435,1474
+Electronics,Product_49,Nov/2023,1898,1774,1869
+Books,Product_50,Jan/2022,1464,1238,1142
+Books,Product_50,Jan/2022,1702,1471,1374
+Books,Product_50,Mar/2022,1036,956,866
+Books,Product_50,Apr/2022,623,730,759
+Books,Product_50,May/2022,1086,1299,1395
+Books,Product_50,May/2022,1350,1483,1562
+Books,Product_50,Jun/2022,1323,1107,1170
+Books,Product_50,Jul/2022,1598,1848,1905
+Books,Product_50,Aug/2022,812,796,717
+Books,Product_50,Sep/2022,1134,914,944
+Books,Product_50,Oct/2022,916,775,812
+Books,Product_50,Nov/2022,1169,1269,1319
+Books,Product_50,Dec/2022,1799,1566,1545
+Books,Product_50,Jan/2023,1930,2077,2163
+Books,Product_50,Feb/2023,988,747,709
+Books,Product_50,Mar/2023,676,820,749
+Books,Product_50,Apr/2023,1428,1184,1163
+Books,Product_50,May/2023,1864,1743,1673
+Books,Product_50,Jun/2023,525,365,444
+Books,Product_50,Jul/2023,523,390,417
+Books,Product_50,Aug/2023,1210,1445,1477
+Books,Product_50,Sep/2023,1976,1941,1883
+Books,Product_50,Oct/2023,1261,1090,1181
+Books,Product_50,Nov/2023,1050,870,967
+Clothing,Product_51,Jan/2022,560,603,612
+Clothing,Product_51,Jan/2022,1057,1293,1209
+Clothing,Product_51,Mar/2022,1038,1328,1388
+Clothing,Product_51,Apr/2022,657,865,881
+Clothing,Product_51,May/2022,1546,1614,1528
+Clothing,Product_51,May/2022,1523,1803,1745
+Clothing,Product_51,Jun/2022,1253,1114,1079
+Clothing,Product_51,Jul/2022,710,997,1069
+Clothing,Product_51,Aug/2022,1980,1798,1756
+Clothing,Product_51,Sep/2022,1542,1244,1155
+Clothing,Product_51,Oct/2022,525,475,386
+Clothing,Product_51,Nov/2022,1466,1538,1536
+Clothing,Product_51,Dec/2022,807,690,599
+Clothing,Product_51,Jan/2023,1632,1761,1718
+Clothing,Product_51,Feb/2023,1159,1113,1119
+Clothing,Product_51,Mar/2023,1975,2002,1971
+Clothing,Product_51,Apr/2023,659,944,939
+Clothing,Product_51,May/2023,744,958,1030
+Clothing,Product_51,Jun/2023,607,490,447
+Clothing,Product_51,Jul/2023,1556,1303,1305
+Clothing,Product_51,Aug/2023,641,817,789
+Clothing,Product_51,Sep/2023,1136,1171,1093
+Clothing,Product_51,Oct/2023,1632,1799,1701
+Clothing,Product_51,Nov/2023,1255,1160,1134
+Books,Product_52,Jan/2022,1654,1665,1754
+Books,Product_52,Jan/2022,1775,1723,1741
+Books,Product_52,Mar/2022,1254,1459,1556
+Books,Product_52,Apr/2022,900,1159,1253
+Books,Product_52,May/2022,1002,856,757
+Books,Product_52,May/2022,1339,1063,1022
+Books,Product_52,Jun/2022,1609,1663,1725
+Books,Product_52,Jul/2022,1920,1629,1614
+Books,Product_52,Aug/2022,502,587,675
+Books,Product_52,Sep/2022,1989,2003,1929
+Books,Product_52,Oct/2022,920,1162,1122
+Books,Product_52,Nov/2022,1359,1562,1477
+Books,Product_52,Dec/2022,791,777,700
+Books,Product_52,Jan/2023,589,526,559
+Books,Product_52,Feb/2023,1345,1426,1443
+Books,Product_52,Mar/2023,673,967,891
+Books,Product_52,Apr/2023,1535,1371,1434
+Books,Product_52,May/2023,1307,1083,1134
+Books,Product_52,Jun/2023,1662,1425,1436
+Books,Product_52,Jul/2023,1856,1689,1649
+Books,Product_52,Aug/2023,1097,1064,1044
+Books,Product_52,Sep/2023,1304,1338,1319
+Books,Product_52,Oct/2023,1427,1405,1364
+Books,Product_52,Nov/2023,652,559,493
+Clothing,Product_53,Jan/2022,1697,1508,1447
+Clothing,Product_53,Jan/2022,716,584,599
+Clothing,Product_53,Mar/2022,1454,1475,1479
+Clothing,Product_53,Apr/2022,747,995,986
+Clothing,Product_53,May/2022,925,1087,1065
+Clothing,Product_53,May/2022,1448,1419,1349
+Clothing,Product_53,Jun/2022,685,546,621
+Clothing,Product_53,Jul/2022,1123,864,819
+Clothing,Product_53,Aug/2022,1171,1022,945
+Clothing,Product_53,Sep/2022,1956,1910,1901
+Clothing,Product_53,Oct/2022,1311,1536,1448
+Clothing,Product_53,Nov/2022,1886,1892,1858
+Clothing,Product_53,Dec/2022,856,587,590
+Clothing,Product_53,Jan/2023,1426,1695,1786
+Clothing,Product_53,Feb/2023,1626,1581,1505
+Clothing,Product_53,Mar/2023,1446,1250,1185
+Clothing,Product_53,Apr/2023,748,460,375
+Clothing,Product_53,May/2023,955,788,738
+Clothing,Product_53,Jun/2023,1320,1401,1476
+Clothing,Product_53,Jul/2023,1790,1576,1625
+Clothing,Product_53,Aug/2023,1700,1665,1584
+Clothing,Product_53,Sep/2023,544,310,260
+Clothing,Product_53,Oct/2023,1822,1976,1908
+Clothing,Product_53,Nov/2023,688,727,658
+Books,Product_54,Jan/2022,587,759,671
+Books,Product_54,Jan/2022,844,1131,1141
+Books,Product_54,Mar/2022,1983,2087,2114
+Books,Product_54,Apr/2022,560,651,725
+Books,Product_54,May/2022,1373,1249,1239
+Books,Product_54,May/2022,939,830,800
+Books,Product_54,Jun/2022,1073,1229,1167
+Books,Product_54,Jul/2022,570,521,586
+Books,Product_54,Aug/2022,1104,1314,1319
+Books,Product_54,Sep/2022,1627,1817,1732
+Books,Product_54,Oct/2022,679,665,663
+Books,Product_54,Nov/2022,781,910,861
+Books,Product_54,Dec/2022,1816,2054,2017
+Books,Product_54,Jan/2023,1791,2047,1951
+Books,Product_54,Feb/2023,1283,1350,1372
+Books,Product_54,Mar/2023,1615,1811,1799
+Books,Product_54,Apr/2023,1658,1872,1854
+Books,Product_54,May/2023,1295,1271,1217
+Books,Product_54,Jun/2023,553,579,631
+Books,Product_54,Jul/2023,948,678,777
+Books,Product_54,Aug/2023,1075,834,854
+Books,Product_54,Sep/2023,1584,1650,1746
+Books,Product_54,Oct/2023,1696,1634,1574
+Books,Product_54,Nov/2023,705,658,726
+Home & Kitchen,Product_55,Jan/2022,993,965,1001
+Home & Kitchen,Product_55,Jan/2022,614,538,585
+Home & Kitchen,Product_55,Mar/2022,1295,1358,1302
+Home & Kitchen,Product_55,Apr/2022,860,802,853
+Home & Kitchen,Product_55,May/2022,1151,1218,1269
+Home & Kitchen,Product_55,May/2022,557,617,662
+Home & Kitchen,Product_55,Jun/2022,1654,1499,1543
+Home & Kitchen,Product_55,Jul/2022,885,1089,1127
+Home & Kitchen,Product_55,Aug/2022,1132,1011,1036
+Home & Kitchen,Product_55,Sep/2022,577,369,283
+Home & Kitchen,Product_55,Oct/2022,976,900,805
+Home & Kitchen,Product_55,Nov/2022,1578,1767,1667
+Home & Kitchen,Product_55,Dec/2022,1179,1085,1018
+Home & Kitchen,Product_55,Jan/2023,1197,1078,1060
+Home & Kitchen,Product_55,Feb/2023,621,343,280
+Home & Kitchen,Product_55,Mar/2023,1701,1546,1644
+Home & Kitchen,Product_55,Apr/2023,727,965,958
+Home & Kitchen,Product_55,May/2023,648,730,810
+Home & Kitchen,Product_55,Jun/2023,1856,1961,2011
+Home & Kitchen,Product_55,Jul/2023,706,750,727
+Home & Kitchen,Product_55,Aug/2023,1160,999,939
+Home & Kitchen,Product_55,Sep/2023,1999,2146,2209
+Home & Kitchen,Product_55,Oct/2023,1497,1521,1465
+Home & Kitchen,Product_55,Nov/2023,1948,2223,2300
+Electronics,Product_56,Jan/2022,1756,1821,1778
+Electronics,Product_56,Jan/2022,1863,1742,1738
+Electronics,Product_56,Mar/2022,1128,1129,1061
+Electronics,Product_56,Apr/2022,863,564,643
+Electronics,Product_56,May/2022,1673,1773,1870
+Electronics,Product_56,May/2022,1662,1395,1341
+Electronics,Product_56,Jun/2022,1733,1758,1814
+Electronics,Product_56,Jul/2022,952,1231,1157
+Electronics,Product_56,Aug/2022,1516,1360,1344
+Electronics,Product_56,Sep/2022,659,602,590
+Electronics,Product_56,Oct/2022,1154,1025,1087
+Electronics,Product_56,Nov/2022,681,724,738
+Electronics,Product_56,Dec/2022,523,494,447
+Electronics,Product_56,Jan/2023,1011,780,769
+Electronics,Product_56,Feb/2023,1025,835,919
+Electronics,Product_56,Mar/2023,502,251,249
+Electronics,Product_56,Apr/2023,1397,1526,1468
+Electronics,Product_56,May/2023,1347,1551,1547
+Electronics,Product_56,Jun/2023,1219,1478,1474
+Electronics,Product_56,Jul/2023,707,897,944
+Electronics,Product_56,Aug/2023,1833,1763,1704
+Electronics,Product_56,Sep/2023,1424,1199,1107
+Electronics,Product_56,Oct/2023,1103,823,804
+Electronics,Product_56,Nov/2023,1034,841,759
+Electronics,Product_57,Jan/2022,1200,1074,1070
+Electronics,Product_57,Jan/2022,829,605,645
+Electronics,Product_57,Mar/2022,690,736,788
+Electronics,Product_57,Apr/2022,1756,1950,2030
+Electronics,Product_57,May/2022,563,704,771
+Electronics,Product_57,May/2022,837,981,921
+Electronics,Product_57,Jun/2022,609,412,396
+Electronics,Product_57,Jul/2022,920,814,818
+Electronics,Product_57,Aug/2022,1927,2194,2278
+Electronics,Product_57,Sep/2022,1994,2247,2214
+Electronics,Product_57,Oct/2022,1852,1840,1816
+Electronics,Product_57,Nov/2022,986,784,696
+Electronics,Product_57,Dec/2022,1304,1589,1629
+Electronics,Product_57,Jan/2023,1505,1362,1275
+Electronics,Product_57,Feb/2023,1238,941,950
+Electronics,Product_57,Mar/2023,679,680,749
+Electronics,Product_57,Apr/2023,1780,1971,1922
+Electronics,Product_57,May/2023,698,424,376
+Electronics,Product_57,Jun/2023,849,847,767
+Electronics,Product_57,Jul/2023,1469,1287,1265
+Electronics,Product_57,Aug/2023,1314,1496,1521
+Electronics,Product_57,Sep/2023,1853,1824,1747
+Electronics,Product_57,Oct/2023,1814,2071,2070
+Electronics,Product_57,Nov/2023,878,957,954
+Home & Kitchen,Product_58,Jan/2022,1256,1147,1161
+Home & Kitchen,Product_58,Jan/2022,591,560,572
+Home & Kitchen,Product_58,Mar/2022,1452,1421,1378
+Home & Kitchen,Product_58,Apr/2022,1050,1327,1242
+Home & Kitchen,Product_58,May/2022,809,608,529
+Home & Kitchen,Product_58,May/2022,1868,1920,1958
+Home & Kitchen,Product_58,Jun/2022,1347,1279,1320
+Home & Kitchen,Product_58,Jul/2022,624,720,753
+Home & Kitchen,Product_58,Aug/2022,1357,1605,1680
+Home & Kitchen,Product_58,Sep/2022,1472,1758,1718
+Home & Kitchen,Product_58,Oct/2022,1475,1481,1401
+Home & Kitchen,Product_58,Nov/2022,1308,1043,1071
+Home & Kitchen,Product_58,Dec/2022,1669,1898,1944
+Home & Kitchen,Product_58,Jan/2023,1887,1737,1667
+Home & Kitchen,Product_58,Feb/2023,1419,1296,1238
+Home & Kitchen,Product_58,Mar/2023,933,830,762
+Home & Kitchen,Product_58,Apr/2023,587,720,640
+Home & Kitchen,Product_58,May/2023,1899,2044,1995
+Home & Kitchen,Product_58,Jun/2023,1784,1635,1687
+Home & Kitchen,Product_58,Jul/2023,1028,1055,1141
+Home & Kitchen,Product_58,Aug/2023,637,426,425
+Home & Kitchen,Product_58,Sep/2023,1639,1745,1786
+Home & Kitchen,Product_58,Oct/2023,1167,1149,1182
+Home & Kitchen,Product_58,Nov/2023,1438,1150,1229
+Clothing,Product_59,Jan/2022,1776,2011,2111
+Clothing,Product_59,Jan/2022,1359,1174,1180
+Clothing,Product_59,Mar/2022,806,657,702
+Clothing,Product_59,Apr/2022,1704,2000,2094
+Clothing,Product_59,May/2022,705,513,557
+Clothing,Product_59,May/2022,706,698,735
+Clothing,Product_59,Jun/2022,1204,1324,1291
+Clothing,Product_59,Jul/2022,1284,1481,1527
+Clothing,Product_59,Aug/2022,1747,1931,1840
+Clothing,Product_59,Sep/2022,852,834,837
+Clothing,Product_59,Oct/2022,794,905,814
+Clothing,Product_59,Nov/2022,1310,1349,1425
+Clothing,Product_59,Dec/2022,986,736,826
+Clothing,Product_59,Jan/2023,1473,1448,1443
+Clothing,Product_59,Feb/2023,541,586,563
+Clothing,Product_59,Mar/2023,1136,1123,1148
+Clothing,Product_59,Apr/2023,1925,1725,1683
+Clothing,Product_59,May/2023,775,782,872
+Clothing,Product_59,Jun/2023,1407,1435,1403
+Clothing,Product_59,Jul/2023,1992,2118,2172
+Clothing,Product_59,Aug/2023,1822,1613,1561
+Clothing,Product_59,Sep/2023,1404,1320,1324
+Clothing,Product_59,Oct/2023,1492,1720,1715
+Clothing,Product_59,Nov/2023,615,842,782
+Electronics,Product_60,Jan/2022,634,652,733
+Electronics,Product_60,Jan/2022,1537,1650,1584
+Electronics,Product_60,Mar/2022,1573,1855,1762
+Electronics,Product_60,Apr/2022,855,752,703
+Electronics,Product_60,May/2022,618,573,481
+Electronics,Product_60,May/2022,1434,1185,1177
+Electronics,Product_60,Jun/2022,1943,1846,1816
+Electronics,Product_60,Jul/2022,1254,1429,1458
+Electronics,Product_60,Aug/2022,1312,1138,1212
+Electronics,Product_60,Sep/2022,562,509,504
+Electronics,Product_60,Oct/2022,1501,1657,1602
+Electronics,Product_60,Nov/2022,1471,1771,1812
+Electronics,Product_60,Dec/2022,1216,1268,1209
+Electronics,Product_60,Jan/2023,1029,821,793
+Electronics,Product_60,Feb/2023,556,651,563
+Electronics,Product_60,Mar/2023,833,1118,1217
+Electronics,Product_60,Apr/2023,938,864,929
+Electronics,Product_60,May/2023,961,872,840
+Electronics,Product_60,Jun/2023,1834,1953,1984
+Electronics,Product_60,Jul/2023,541,250,271
+Electronics,Product_60,Aug/2023,770,647,700
+Electronics,Product_60,Sep/2023,517,446,410
+Electronics,Product_60,Oct/2023,1745,1757,1839
+Electronics,Product_60,Nov/2023,1952,1933,1941
+Home & Kitchen,Product_61,Jan/2022,1271,1328,1345
+Home & Kitchen,Product_61,Jan/2022,1016,939,958
+Home & Kitchen,Product_61,Mar/2022,1118,1351,1410
+Home & Kitchen,Product_61,Apr/2022,1313,1611,1537
+Home & Kitchen,Product_61,May/2022,515,738,807
+Home & Kitchen,Product_61,May/2022,1266,1540,1605
+Home & Kitchen,Product_61,Jun/2022,1716,1705,1681
+Home & Kitchen,Product_61,Jul/2022,1901,1711,1734
+Home & Kitchen,Product_61,Aug/2022,630,674,644
+Home & Kitchen,Product_61,Sep/2022,1811,1843,1813
+Home & Kitchen,Product_61,Oct/2022,1034,1039,987
+Home & Kitchen,Product_61,Nov/2022,807,1036,1131
+Home & Kitchen,Product_61,Dec/2022,992,750,803
+Home & Kitchen,Product_61,Jan/2023,1327,1354,1428
+Home & Kitchen,Product_61,Feb/2023,786,512,579
+Home & Kitchen,Product_61,Mar/2023,1518,1520,1486
+Home & Kitchen,Product_61,Apr/2023,1357,1471,1470
+Home & Kitchen,Product_61,May/2023,572,869,950
+Home & Kitchen,Product_61,Jun/2023,1671,1565,1552
+Home & Kitchen,Product_61,Jul/2023,1987,1914,1989
+Home & Kitchen,Product_61,Aug/2023,1594,1781,1852
+Home & Kitchen,Product_61,Sep/2023,1234,1453,1429
+Home & Kitchen,Product_61,Oct/2023,848,1119,1065
+Home & Kitchen,Product_61,Nov/2023,1101,900,920
+Electronics,Product_62,Jan/2022,762,726,811
+Electronics,Product_62,Jan/2022,1644,1531,1605
+Electronics,Product_62,Mar/2022,1187,978,934
+Electronics,Product_62,Apr/2022,1227,1155,1245
+Electronics,Product_62,May/2022,1128,1258,1242
+Electronics,Product_62,May/2022,1261,1227,1276
+Electronics,Product_62,Jun/2022,1102,1276,1206
+Electronics,Product_62,Jul/2022,1463,1217,1279
+Electronics,Product_62,Aug/2022,1695,1989,2047
+Electronics,Product_62,Sep/2022,645,828,777
+Electronics,Product_62,Oct/2022,1524,1346,1420
+Electronics,Product_62,Nov/2022,1281,1523,1499
+Electronics,Product_62,Dec/2022,1346,1101,1039
+Electronics,Product_62,Jan/2023,781,686,673
+Electronics,Product_62,Feb/2023,1338,1621,1638
+Electronics,Product_62,Mar/2023,793,816,899
+Electronics,Product_62,Apr/2023,869,651,675
+Electronics,Product_62,May/2023,1181,1062,1042
+Electronics,Product_62,Jun/2023,1799,1558,1459
+Electronics,Product_62,Jul/2023,1425,1405,1358
+Electronics,Product_62,Aug/2023,845,1135,1230
+Electronics,Product_62,Sep/2023,824,1025,1120
+Electronics,Product_62,Oct/2023,680,512,569
+Electronics,Product_62,Nov/2023,1388,1527,1530
+Sports,Product_63,Jan/2022,1378,1566,1564
+Sports,Product_63,Jan/2022,509,247,283
+Sports,Product_63,Mar/2022,908,990,893
+Sports,Product_63,Apr/2022,1159,1402,1350
+Sports,Product_63,May/2022,536,240,300
+Sports,Product_63,May/2022,1009,940,1017
+Sports,Product_63,Jun/2022,1205,1224,1157
+Sports,Product_63,Jul/2022,710,802,830
+Sports,Product_63,Aug/2022,1705,1718,1660
+Sports,Product_63,Sep/2022,633,379,355
+Sports,Product_63,Oct/2022,1095,1261,1347
+Sports,Product_63,Nov/2022,1565,1801,1787
+Sports,Product_63,Dec/2022,1388,1225,1212
+Sports,Product_63,Jan/2023,1503,1570,1662
+Sports,Product_63,Feb/2023,885,753,756
+Sports,Product_63,Mar/2023,539,472,429
+Sports,Product_63,Apr/2023,1989,1823,1777
+Sports,Product_63,May/2023,544,760,703
+Sports,Product_63,Jun/2023,752,827,909
+Sports,Product_63,Jul/2023,1832,1570,1566
+Sports,Product_63,Aug/2023,1811,1772,1869
+Sports,Product_63,Sep/2023,1595,1344,1396
+Sports,Product_63,Oct/2023,598,408,475
+Sports,Product_63,Nov/2023,540,289,365
+Clothing,Product_64,Jan/2022,737,863,876
+Clothing,Product_64,Jan/2022,1278,1104,1144
+Clothing,Product_64,Mar/2022,1017,1202,1281
+Clothing,Product_64,Apr/2022,813,723,800
+Clothing,Product_64,May/2022,1904,1613,1590
+Clothing,Product_64,May/2022,1361,1164,1233
+Clothing,Product_64,Jun/2022,1565,1541,1600
+Clothing,Product_64,Jul/2022,1740,1580,1587
+Clothing,Product_64,Aug/2022,714,937,1021
+Clothing,Product_64,Sep/2022,1765,1585,1557
+Clothing,Product_64,Oct/2022,733,541,568
+Clothing,Product_64,Nov/2022,906,810,909
+Clothing,Product_64,Dec/2022,1038,1273,1224
+Clothing,Product_64,Jan/2023,1233,1352,1327
+Clothing,Product_64,Feb/2023,828,568,608
+Clothing,Product_64,Mar/2023,1516,1428,1504
+Clothing,Product_64,Apr/2023,1484,1522,1482
+Clothing,Product_64,May/2023,505,218,289
+Clothing,Product_64,Jun/2023,682,495,541
+Clothing,Product_64,Jul/2023,1870,2075,2013
+Clothing,Product_64,Aug/2023,684,907,826
+Clothing,Product_64,Sep/2023,1981,1784,1749
+Clothing,Product_64,Oct/2023,1819,1755,1771
+Clothing,Product_64,Nov/2023,1106,1076,1094
+Sports,Product_65,Jan/2022,602,404,348
+Sports,Product_65,Jan/2022,580,577,569
+Sports,Product_65,Mar/2022,1886,1906,1915
+Sports,Product_65,Apr/2022,737,534,628
+Sports,Product_65,May/2022,593,302,237
+Sports,Product_65,May/2022,1858,1732,1716
+Sports,Product_65,Jun/2022,1232,1380,1439
+Sports,Product_65,Jul/2022,1049,844,839
+Sports,Product_65,Aug/2022,1201,1088,1017
+Sports,Product_65,Sep/2022,1320,1429,1445
+Sports,Product_65,Oct/2022,1056,1150,1226
+Sports,Product_65,Nov/2022,1479,1610,1676
+Sports,Product_65,Dec/2022,841,656,589
+Sports,Product_65,Jan/2023,1925,1685,1625
+Sports,Product_65,Feb/2023,712,838,889
+Sports,Product_65,Mar/2023,1488,1770,1843
+Sports,Product_65,Apr/2023,1397,1282,1338
+Sports,Product_65,May/2023,1277,1344,1400
+Sports,Product_65,Jun/2023,559,392,415
+Sports,Product_65,Jul/2023,1499,1314,1319
+Sports,Product_65,Aug/2023,1402,1149,1065
+Sports,Product_65,Sep/2023,1035,1056,959
+Sports,Product_65,Oct/2023,1942,2179,2275
+Sports,Product_65,Nov/2023,1680,1958,1915
+Clothing,Product_66,Jan/2022,1871,1917,1949
+Clothing,Product_66,Jan/2022,1571,1368,1378
+Clothing,Product_66,Mar/2022,1855,1809,1832
+Clothing,Product_66,Apr/2022,1208,1302,1240
+Clothing,Product_66,May/2022,1643,1398,1300
+Clothing,Product_66,May/2022,1817,1677,1706
+Clothing,Product_66,Jun/2022,1461,1668,1610
+Clothing,Product_66,Jul/2022,653,856,838
+Clothing,Product_66,Aug/2022,993,1031,1002
+Clothing,Product_66,Sep/2022,603,822,779
+Clothing,Product_66,Oct/2022,1627,1714,1717
+Clothing,Product_66,Nov/2022,981,761,778
+Clothing,Product_66,Dec/2022,1409,1695,1709
+Clothing,Product_66,Jan/2023,680,890,904
+Clothing,Product_66,Feb/2023,1147,968,995
+Clothing,Product_66,Mar/2023,1838,1556,1482
+Clothing,Product_66,Apr/2023,1326,1448,1357
+Clothing,Product_66,May/2023,1641,1903,1803
+Clothing,Product_66,Jun/2023,686,697,727
+Clothing,Product_66,Jul/2023,1651,1562,1629
+Clothing,Product_66,Aug/2023,1875,2042,2029
+Clothing,Product_66,Sep/2023,1244,999,956
+Clothing,Product_66,Oct/2023,1430,1469,1512
+Clothing,Product_66,Nov/2023,1769,1953,2036
+Home & Kitchen,Product_67,Jan/2022,1845,1917,2000
+Home & Kitchen,Product_67,Jan/2022,1426,1242,1166
+Home & Kitchen,Product_67,Mar/2022,1849,1776,1676
+Home & Kitchen,Product_67,Apr/2022,1199,1262,1324
+Home & Kitchen,Product_67,May/2022,1097,1357,1390
+Home & Kitchen,Product_67,May/2022,1265,1073,984
+Home & Kitchen,Product_67,Jun/2022,836,1040,975
+Home & Kitchen,Product_67,Jul/2022,1968,2087,2014
+Home & Kitchen,Product_67,Aug/2022,1020,920,868
+Home & Kitchen,Product_67,Sep/2022,747,849,804
+Home & Kitchen,Product_67,Oct/2022,1436,1331,1414
+Home & Kitchen,Product_67,Nov/2022,1192,1002,1095
+Home & Kitchen,Product_67,Dec/2022,1348,1095,1157
+Home & Kitchen,Product_67,Jan/2023,1876,1702,1799
+Home & Kitchen,Product_67,Feb/2023,1422,1590,1658
+Home & Kitchen,Product_67,Mar/2023,1706,1922,1856
+Home & Kitchen,Product_67,Apr/2023,1521,1225,1260
+Home & Kitchen,Product_67,May/2023,599,865,875
+Home & Kitchen,Product_67,Jun/2023,1698,1892,1922
+Home & Kitchen,Product_67,Jul/2023,862,1154,1098
+Home & Kitchen,Product_67,Aug/2023,1996,1827,1753
+Home & Kitchen,Product_67,Sep/2023,1293,1322,1351
+Home & Kitchen,Product_67,Oct/2023,1287,1415,1470
+Home & Kitchen,Product_67,Nov/2023,1918,1872,1842
+Clothing,Product_68,Jan/2022,1314,1365,1340
+Clothing,Product_68,Jan/2022,1427,1263,1198
+Clothing,Product_68,Mar/2022,1345,1569,1545
+Clothing,Product_68,Apr/2022,1936,2196,2176
+Clothing,Product_68,May/2022,1957,2223,2284
+Clothing,Product_68,May/2022,945,850,803
+Clothing,Product_68,Jun/2022,1778,1775,1850
+Clothing,Product_68,Jul/2022,1207,1042,1123
+Clothing,Product_68,Aug/2022,1831,1713,1741
+Clothing,Product_68,Sep/2022,1611,1641,1722
+Clothing,Product_68,Oct/2022,736,796,839
+Clothing,Product_68,Nov/2022,1483,1779,1825
+Clothing,Product_68,Dec/2022,1866,1993,2065
+Clothing,Product_68,Jan/2023,1593,1585,1593
+Clothing,Product_68,Feb/2023,526,761,688
+Clothing,Product_68,Mar/2023,551,641,578
+Clothing,Product_68,Apr/2023,608,365,316
+Clothing,Product_68,May/2023,1046,910,883
+Clothing,Product_68,Jun/2023,1899,1855,1792
+Clothing,Product_68,Jul/2023,627,629,581
+Clothing,Product_68,Aug/2023,1608,1341,1332
+Clothing,Product_68,Sep/2023,1426,1230,1287
+Clothing,Product_68,Oct/2023,1883,2158,2115
+Clothing,Product_68,Nov/2023,1825,2099,2098
+Clothing,Product_69,Jan/2022,986,1209,1309
+Clothing,Product_69,Jan/2022,1925,1919,1996
+Clothing,Product_69,Mar/2022,1860,1608,1605
+Clothing,Product_69,Apr/2022,1293,1419,1494
+Clothing,Product_69,May/2022,1140,1405,1318
+Clothing,Product_69,May/2022,526,483,434
+Clothing,Product_69,Jun/2022,1770,1923,1880
+Clothing,Product_69,Jul/2022,1797,1873,1966
+Clothing,Product_69,Aug/2022,1705,1964,2053
+Clothing,Product_69,Sep/2022,1735,1636,1734
+Clothing,Product_69,Oct/2022,1984,1882,1857
+Clothing,Product_69,Nov/2022,1419,1300,1374
+Clothing,Product_69,Dec/2022,652,543,487
+Clothing,Product_69,Jan/2023,1552,1374,1370
+Clothing,Product_69,Feb/2023,583,721,692
+Clothing,Product_69,Mar/2023,1639,1609,1542
+Clothing,Product_69,Apr/2023,829,1127,1092
+Clothing,Product_69,May/2023,511,549,568
+Clothing,Product_69,Jun/2023,1953,1811,1721
+Clothing,Product_69,Jul/2023,814,844,896
+Clothing,Product_69,Aug/2023,604,612,637
+Clothing,Product_69,Sep/2023,1672,1935,1926
+Clothing,Product_69,Oct/2023,649,674,708
+Clothing,Product_69,Nov/2023,950,838,871
+Home & Kitchen,Product_70,Jan/2022,639,856,796
+Home & Kitchen,Product_70,Jan/2022,1351,1607,1644
+Home & Kitchen,Product_70,Mar/2022,1326,1120,1109
+Home & Kitchen,Product_70,Apr/2022,953,871,940
+Home & Kitchen,Product_70,May/2022,1179,1218,1210
+Home & Kitchen,Product_70,May/2022,1101,1024,1116
+Home & Kitchen,Product_70,Jun/2022,1766,2009,2030
+Home & Kitchen,Product_70,Jul/2022,1649,1358,1287
+Home & Kitchen,Product_70,Aug/2022,1869,1923,1937
+Home & Kitchen,Product_70,Sep/2022,992,941,851
+Home & Kitchen,Product_70,Oct/2022,1897,1925,1922
+Home & Kitchen,Product_70,Nov/2022,732,827,792
+Home & Kitchen,Product_70,Dec/2022,1606,1595,1501
+Home & Kitchen,Product_70,Jan/2023,1558,1641,1672
+Home & Kitchen,Product_70,Feb/2023,1541,1697,1721
+Home & Kitchen,Product_70,Mar/2023,589,592,658
+Home & Kitchen,Product_70,Apr/2023,894,922,953
+Home & Kitchen,Product_70,May/2023,668,466,408
+Home & Kitchen,Product_70,Jun/2023,1601,1847,1748
+Home & Kitchen,Product_70,Jul/2023,1783,1550,1503
+Home & Kitchen,Product_70,Aug/2023,1872,1790,1865
+Home & Kitchen,Product_70,Sep/2023,1368,1174,1126
+Home & Kitchen,Product_70,Oct/2023,1601,1746,1811
+Home & Kitchen,Product_70,Nov/2023,647,504,410
+Clothing,Product_71,Jan/2022,1440,1479,1388
+Clothing,Product_71,Jan/2022,679,454,367
+Clothing,Product_71,Mar/2022,864,821,863
+Clothing,Product_71,Apr/2022,644,932,890
+Clothing,Product_71,May/2022,1029,1146,1145
+Clothing,Product_71,May/2022,1423,1537,1547
+Clothing,Product_71,Jun/2022,1147,864,863
+Clothing,Product_71,Jul/2022,1878,1699,1735
+Clothing,Product_71,Aug/2022,512,276,369
+Clothing,Product_71,Sep/2022,1699,1445,1524
+Clothing,Product_71,Oct/2022,648,714,742
+Clothing,Product_71,Nov/2022,717,713,788
+Clothing,Product_71,Dec/2022,1117,905,877
+Clothing,Product_71,Jan/2023,1396,1486,1487
+Clothing,Product_71,Feb/2023,1853,1584,1605
+Clothing,Product_71,Mar/2023,820,1066,1022
+Clothing,Product_71,Apr/2023,779,879,918
+Clothing,Product_71,May/2023,1104,951,927
+Clothing,Product_71,Jun/2023,1887,1969,1871
+Clothing,Product_71,Jul/2023,1633,1901,1837
+Clothing,Product_71,Aug/2023,752,494,395
+Clothing,Product_71,Sep/2023,1672,1775,1812
+Clothing,Product_71,Oct/2023,1621,1408,1386
+Clothing,Product_71,Nov/2023,930,982,936
+Electronics,Product_72,Jan/2022,1345,1569,1505
+Electronics,Product_72,Jan/2022,829,717,673
+Electronics,Product_72,Mar/2022,1763,1721,1670
+Electronics,Product_72,Apr/2022,734,619,690
+Electronics,Product_72,May/2022,1661,1416,1508
+Electronics,Product_72,May/2022,1624,1796,1861
+Electronics,Product_72,Jun/2022,1625,1399,1373
+Electronics,Product_72,Jul/2022,1875,1643,1607
+Electronics,Product_72,Aug/2022,701,603,688
+Electronics,Product_72,Sep/2022,1689,1887,1871
+Electronics,Product_72,Oct/2022,1231,1062,1133
+Electronics,Product_72,Nov/2022,1842,1782,1707
+Electronics,Product_72,Dec/2022,1083,854,803
+Electronics,Product_72,Jan/2023,1150,1347,1362
+Electronics,Product_72,Feb/2023,1172,1185,1262
+Electronics,Product_72,Mar/2023,1696,1552,1596
+Electronics,Product_72,Apr/2023,1660,1733,1713
+Electronics,Product_72,May/2023,1377,1249,1150
+Electronics,Product_72,Jun/2023,1141,1093,1049
+Electronics,Product_72,Jul/2023,1958,2104,2074
+Electronics,Product_72,Aug/2023,1236,1073,1146
+Electronics,Product_72,Sep/2023,1179,1370,1388
+Electronics,Product_72,Oct/2023,1412,1479,1577
+Electronics,Product_72,Nov/2023,1125,1323,1364
+Books,Product_73,Jan/2022,722,601,666
+Books,Product_73,Jan/2022,1742,1525,1496
+Books,Product_73,Mar/2022,786,1037,987
+Books,Product_73,Apr/2022,1039,817,903
+Books,Product_73,May/2022,654,373,402
+Books,Product_73,May/2022,1793,1524,1572
+Books,Product_73,Jun/2022,1685,1799,1895
+Books,Product_73,Jul/2022,1708,1625,1534
+Books,Product_73,Aug/2022,1629,1595,1634
+Books,Product_73,Sep/2022,1605,1788,1855
+Books,Product_73,Oct/2022,804,878,878
+Books,Product_73,Nov/2022,957,954,888
+Books,Product_73,Dec/2022,1451,1664,1694
+Books,Product_73,Jan/2023,685,791,784
+Books,Product_73,Feb/2023,1528,1238,1307
+Books,Product_73,Mar/2023,989,858,951
+Books,Product_73,Apr/2023,1552,1395,1409
+Books,Product_73,May/2023,826,709,753
+Books,Product_73,Jun/2023,1658,1507,1595
+Books,Product_73,Jul/2023,1999,2194,2185
+Books,Product_73,Aug/2023,582,506,600
+Books,Product_73,Sep/2023,1498,1435,1351
+Books,Product_73,Oct/2023,1041,1119,1078
+Books,Product_73,Nov/2023,587,498,530
+Home & Kitchen,Product_74,Jan/2022,1239,1336,1356
+Home & Kitchen,Product_74,Jan/2022,1431,1178,1088
+Home & Kitchen,Product_74,Mar/2022,1828,1859,1785
+Home & Kitchen,Product_74,Apr/2022,1941,2174,2236
+Home & Kitchen,Product_74,May/2022,1060,1029,1077
+Home & Kitchen,Product_74,May/2022,1614,1897,1841
+Home & Kitchen,Product_74,Jun/2022,1271,1358,1351
+Home & Kitchen,Product_74,Jul/2022,1703,1482,1514
+Home & Kitchen,Product_74,Aug/2022,1015,1100,1057
+Home & Kitchen,Product_74,Sep/2022,1557,1672,1662
+Home & Kitchen,Product_74,Oct/2022,1206,1404,1427
+Home & Kitchen,Product_74,Nov/2022,1737,1443,1471
+Home & Kitchen,Product_74,Dec/2022,784,934,876
+Home & Kitchen,Product_74,Jan/2023,971,749,780
+Home & Kitchen,Product_74,Feb/2023,1817,1804,1758
+Home & Kitchen,Product_74,Mar/2023,807,698,638
+Home & Kitchen,Product_74,Apr/2023,1241,1062,1131
+Home & Kitchen,Product_74,May/2023,971,1095,1079
+Home & Kitchen,Product_74,Jun/2023,1975,1791,1814
+Home & Kitchen,Product_74,Jul/2023,1882,2072,2094
+Home & Kitchen,Product_74,Aug/2023,931,796,861
+Home & Kitchen,Product_74,Sep/2023,1341,1063,1025
+Home & Kitchen,Product_74,Oct/2023,588,418,464
+Home & Kitchen,Product_74,Nov/2023,1713,1577,1511
+Books,Product_75,Jan/2022,1789,2013,1923
+Books,Product_75,Jan/2022,1672,1522,1436
+Books,Product_75,Mar/2022,840,804,750
+Books,Product_75,Apr/2022,1558,1673,1726
+Books,Product_75,May/2022,1654,1373,1457
+Books,Product_75,May/2022,1990,1980,1901
+Books,Product_75,Jun/2022,943,1102,1157
+Books,Product_75,Jul/2022,1465,1658,1601
+Books,Product_75,Aug/2022,949,1069,1122
+Books,Product_75,Sep/2022,792,1088,1184
+Books,Product_75,Oct/2022,872,1095,1062
+Books,Product_75,Nov/2022,843,893,909
+Books,Product_75,Dec/2022,1721,1491,1449
+Books,Product_75,Jan/2023,1274,1368,1301
+Books,Product_75,Feb/2023,722,438,389
+Books,Product_75,Mar/2023,1570,1786,1861
+Books,Product_75,Apr/2023,1359,1212,1267
+Books,Product_75,May/2023,697,578,599
+Books,Product_75,Jun/2023,1759,1498,1598
+Books,Product_75,Jul/2023,1588,1803,1895
+Books,Product_75,Aug/2023,740,535,558
+Books,Product_75,Sep/2023,1850,1683,1737
+Books,Product_75,Oct/2023,1604,1305,1403
+Books,Product_75,Nov/2023,1889,2030,2063
+Home & Kitchen,Product_76,Jan/2022,1361,1440,1351
+Home & Kitchen,Product_76,Jan/2022,1928,2170,2179
+Home & Kitchen,Product_76,Mar/2022,969,1162,1258
+Home & Kitchen,Product_76,Apr/2022,1280,1338,1388
+Home & Kitchen,Product_76,May/2022,1926,2215,2140
+Home & Kitchen,Product_76,May/2022,1371,1208,1173
+Home & Kitchen,Product_76,Jun/2022,1477,1415,1336
+Home & Kitchen,Product_76,Jul/2022,1080,1336,1340
+Home & Kitchen,Product_76,Aug/2022,1027,920,821
+Home & Kitchen,Product_76,Sep/2022,1952,1659,1706
+Home & Kitchen,Product_76,Oct/2022,1570,1390,1423
+Home & Kitchen,Product_76,Nov/2022,514,598,665
+Home & Kitchen,Product_76,Dec/2022,920,943,947
+Home & Kitchen,Product_76,Jan/2023,1241,1050,989
+Home & Kitchen,Product_76,Feb/2023,1372,1671,1635
+Home & Kitchen,Product_76,Mar/2023,1035,1283,1291
+Home & Kitchen,Product_76,Apr/2023,1656,1730,1786
+Home & Kitchen,Product_76,May/2023,1064,1170,1263
+Home & Kitchen,Product_76,Jun/2023,917,1040,1081
+Home & Kitchen,Product_76,Jul/2023,1641,1835,1780
+Home & Kitchen,Product_76,Aug/2023,1258,1530,1572
+Home & Kitchen,Product_76,Sep/2023,1490,1449,1427
+Home & Kitchen,Product_76,Oct/2023,1683,1735,1833
+Home & Kitchen,Product_76,Nov/2023,1944,2051,2139
+Home & Kitchen,Product_77,Jan/2022,782,603,694
+Home & Kitchen,Product_77,Jan/2022,970,1127,1227
+Home & Kitchen,Product_77,Mar/2022,1932,1797,1722
+Home & Kitchen,Product_77,Apr/2022,939,1159,1161
+Home & Kitchen,Product_77,May/2022,1193,1456,1513
+Home & Kitchen,Product_77,May/2022,1927,1680,1621
+Home & Kitchen,Product_77,Jun/2022,1296,1001,924
+Home & Kitchen,Product_77,Jul/2022,797,979,1032
+Home & Kitchen,Product_77,Aug/2022,1391,1181,1097
+Home & Kitchen,Product_77,Sep/2022,1038,965,959
+Home & Kitchen,Product_77,Oct/2022,663,401,486
+Home & Kitchen,Product_77,Nov/2022,1287,1397,1454
+Home & Kitchen,Product_77,Dec/2022,1843,2076,2049
+Home & Kitchen,Product_77,Jan/2023,1957,1715,1813
+Home & Kitchen,Product_77,Feb/2023,858,1064,1076
+Home & Kitchen,Product_77,Mar/2023,521,427,495
+Home & Kitchen,Product_77,Apr/2023,1561,1553,1502
+Home & Kitchen,Product_77,May/2023,568,790,822
+Home & Kitchen,Product_77,Jun/2023,1930,1867,1924
+Home & Kitchen,Product_77,Jul/2023,847,583,575
+Home & Kitchen,Product_77,Aug/2023,989,689,629
+Home & Kitchen,Product_77,Sep/2023,677,659,758
+Home & Kitchen,Product_77,Oct/2023,1318,1379,1450
+Home & Kitchen,Product_77,Nov/2023,1309,1424,1474
+Sports,Product_78,Jan/2022,910,1140,1043
+Sports,Product_78,Jan/2022,1941,1711,1634
+Sports,Product_78,Mar/2022,1625,1616,1701
+Sports,Product_78,Apr/2022,1645,1941,1930
+Sports,Product_78,May/2022,1211,1194,1151
+Sports,Product_78,May/2022,1741,1640,1656
+Sports,Product_78,Jun/2022,1327,1615,1516
+Sports,Product_78,Jul/2022,1034,913,917
+Sports,Product_78,Aug/2022,1536,1345,1388
+Sports,Product_78,Sep/2022,648,863,838
+Sports,Product_78,Oct/2022,1196,1015,1046
+Sports,Product_78,Nov/2022,1027,1277,1324
+Sports,Product_78,Dec/2022,1012,1165,1161
+Sports,Product_78,Jan/2023,1653,1848,1945
+Sports,Product_78,Feb/2023,998,1045,1143
+Sports,Product_78,Mar/2023,1439,1610,1660
+Sports,Product_78,Apr/2023,556,749,678
+Sports,Product_78,May/2023,1028,797,794
+Sports,Product_78,Jun/2023,1797,1722,1795
+Sports,Product_78,Jul/2023,1936,1871,1851
+Sports,Product_78,Aug/2023,1344,1405,1437
+Sports,Product_78,Sep/2023,1597,1306,1385
+Sports,Product_78,Oct/2023,1039,993,966
+Sports,Product_78,Nov/2023,690,798,870
+Sports,Product_79,Jan/2022,1200,977,1018
+Sports,Product_79,Jan/2022,865,1052,1032
+Sports,Product_79,Mar/2022,1224,1147,1193
+Sports,Product_79,Apr/2022,1051,938,1029
+Sports,Product_79,May/2022,1899,1793,1820
+Sports,Product_79,May/2022,908,848,936
+Sports,Product_79,Jun/2022,995,966,918
+Sports,Product_79,Jul/2022,969,876,839
+Sports,Product_79,Aug/2022,1766,1830,1769
+Sports,Product_79,Sep/2022,718,540,460
+Sports,Product_79,Oct/2022,1884,2088,2145
+Sports,Product_79,Nov/2022,513,767,677
+Sports,Product_79,Dec/2022,1487,1567,1625
+Sports,Product_79,Jan/2023,1145,1349,1396
+Sports,Product_79,Feb/2023,1062,1264,1210
+Sports,Product_79,Mar/2023,1546,1532,1533
+Sports,Product_79,Apr/2023,954,1244,1176
+Sports,Product_79,May/2023,610,848,856
+Sports,Product_79,Jun/2023,1479,1732,1640
+Sports,Product_79,Jul/2023,1529,1584,1584
+Sports,Product_79,Aug/2023,1905,1783,1800
+Sports,Product_79,Sep/2023,746,976,993
+Sports,Product_79,Oct/2023,1146,854,757
+Sports,Product_79,Nov/2023,1880,1795,1792
+Clothing,Product_80,Jan/2022,1689,1492,1475
+Clothing,Product_80,Jan/2022,1240,1205,1152
+Clothing,Product_80,Mar/2022,1623,1592,1552
+Clothing,Product_80,Apr/2022,1051,1233,1289
+Clothing,Product_80,May/2022,1202,1276,1223
+Clothing,Product_80,May/2022,1521,1655,1608
+Clothing,Product_80,Jun/2022,1358,1439,1432
+Clothing,Product_80,Jul/2022,1320,1306,1321
+Clothing,Product_80,Aug/2022,868,1153,1086
+Clothing,Product_80,Sep/2022,1679,1613,1538
+Clothing,Product_80,Oct/2022,1976,1952,1912
+Clothing,Product_80,Nov/2022,1637,1779,1776
+Clothing,Product_80,Dec/2022,901,750,839
+Clothing,Product_80,Jan/2023,806,990,892
+Clothing,Product_80,Feb/2023,861,992,1019
+Clothing,Product_80,Mar/2023,775,1004,1040
+Clothing,Product_80,Apr/2023,1975,1998,2022
+Clothing,Product_80,May/2023,1114,1070,1113
+Clothing,Product_80,Jun/2023,1662,1410,1411
+Clothing,Product_80,Jul/2023,702,569,484
+Clothing,Product_80,Aug/2023,941,901,922
+Clothing,Product_80,Sep/2023,1789,1587,1602
+Clothing,Product_80,Oct/2023,1185,1151,1143
+Clothing,Product_80,Nov/2023,1237,1510,1552
+Books,Product_81,Jan/2022,1027,1079,984
+Books,Product_81,Jan/2022,1343,1167,1156
+Books,Product_81,Mar/2022,1891,1794,1841
+Books,Product_81,Apr/2022,1679,1930,1874
+Books,Product_81,May/2022,1082,1145,1128
+Books,Product_81,May/2022,1878,2100,2124
+Books,Product_81,Jun/2022,1415,1195,1192
+Books,Product_81,Jul/2022,1756,1749,1767
+Books,Product_81,Aug/2022,1793,1641,1583
+Books,Product_81,Sep/2022,1811,1856,1863
+Books,Product_81,Oct/2022,1792,2077,2080
+Books,Product_81,Nov/2022,646,427,368
+Books,Product_81,Dec/2022,1203,1136,1116
+Books,Product_81,Jan/2023,1148,1146,1227
+Books,Product_81,Feb/2023,1047,1151,1120
+Books,Product_81,Mar/2023,1411,1482,1573
+Books,Product_81,Apr/2023,1702,1935,1950
+Books,Product_81,May/2023,1347,1218,1165
+Books,Product_81,Jun/2023,547,375,461
+Books,Product_81,Jul/2023,980,937,1027
+Books,Product_81,Aug/2023,1935,1716,1669
+Books,Product_81,Sep/2023,841,947,873
+Books,Product_81,Oct/2023,695,460,481
+Books,Product_81,Nov/2023,1623,1378,1284
+Home & Kitchen,Product_82,Jan/2022,1313,1549,1644
+Home & Kitchen,Product_82,Jan/2022,670,476,443
+Home & Kitchen,Product_82,Mar/2022,1765,1624,1545
+Home & Kitchen,Product_82,Apr/2022,1841,1940,1919
+Home & Kitchen,Product_82,May/2022,969,922,1010
+Home & Kitchen,Product_82,May/2022,1081,1234,1294
+Home & Kitchen,Product_82,Jun/2022,758,592,626
+Home & Kitchen,Product_82,Jul/2022,849,578,486
+Home & Kitchen,Product_82,Aug/2022,1858,1923,1906
+Home & Kitchen,Product_82,Sep/2022,1475,1653,1691
+Home & Kitchen,Product_82,Oct/2022,1057,1318,1331
+Home & Kitchen,Product_82,Nov/2022,776,1028,973
+Home & Kitchen,Product_82,Dec/2022,1710,1877,1938
+Home & Kitchen,Product_82,Jan/2023,1802,2079,2090
+Home & Kitchen,Product_82,Feb/2023,1572,1818,1797
+Home & Kitchen,Product_82,Mar/2023,1211,1404,1442
+Home & Kitchen,Product_82,Apr/2023,965,756,769
+Home & Kitchen,Product_82,May/2023,1130,1204,1209
+Home & Kitchen,Product_82,Jun/2023,1032,891,868
+Home & Kitchen,Product_82,Jul/2023,521,221,254
+Home & Kitchen,Product_82,Aug/2023,779,831,804
+Home & Kitchen,Product_82,Sep/2023,1460,1707,1609
+Home & Kitchen,Product_82,Oct/2023,1908,2111,2204
+Home & Kitchen,Product_82,Nov/2023,1477,1483,1385
+Clothing,Product_83,Jan/2022,1381,1380,1432
+Clothing,Product_83,Jan/2022,973,680,720
+Clothing,Product_83,Mar/2022,1265,1158,1163
+Clothing,Product_83,Apr/2022,1648,1795,1796
+Clothing,Product_83,May/2022,1011,878,961
+Clothing,Product_83,May/2022,1822,1921,1917
+Clothing,Product_83,Jun/2022,951,920,840
+Clothing,Product_83,Jul/2022,1364,1309,1341
+Clothing,Product_83,Aug/2022,1755,1733,1705
+Clothing,Product_83,Sep/2022,1828,2072,2040
+Clothing,Product_83,Oct/2022,1345,1237,1154
+Clothing,Product_83,Nov/2022,873,712,686
+Clothing,Product_83,Dec/2022,726,892,950
+Clothing,Product_83,Jan/2023,1427,1405,1484
+Clothing,Product_83,Feb/2023,1775,1978,1926
+Clothing,Product_83,Mar/2023,1156,875,813
+Clothing,Product_83,Apr/2023,601,848,753
+Clothing,Product_83,May/2023,880,684,656
+Clothing,Product_83,Jun/2023,1051,879,962
+Clothing,Product_83,Jul/2023,1397,1105,1064
+Clothing,Product_83,Aug/2023,684,538,441
+Clothing,Product_83,Sep/2023,1510,1432,1419
+Clothing,Product_83,Oct/2023,1360,1379,1406
+Clothing,Product_83,Nov/2023,1260,1434,1512
+Electronics,Product_84,Jan/2022,564,602,522
+Electronics,Product_84,Jan/2022,799,556,524
+Electronics,Product_84,Mar/2022,1303,1076,1115
+Electronics,Product_84,Apr/2022,1462,1347,1296
+Electronics,Product_84,May/2022,1012,1102,1005
+Electronics,Product_84,May/2022,749,703,701
+Electronics,Product_84,Jun/2022,1407,1360,1448
+Electronics,Product_84,Jul/2022,568,471,488
+Electronics,Product_84,Aug/2022,692,925,995
+Electronics,Product_84,Sep/2022,926,1110,1109
+Electronics,Product_84,Oct/2022,1895,1914,1896
+Electronics,Product_84,Nov/2022,824,567,657
+Electronics,Product_84,Dec/2022,1625,1858,1789
+Electronics,Product_84,Jan/2023,1018,1210,1273
+Electronics,Product_84,Feb/2023,1111,1014,1006
+Electronics,Product_84,Mar/2023,606,529,457
+Electronics,Product_84,Apr/2023,983,1127,1110
+Electronics,Product_84,May/2023,530,401,371
+Electronics,Product_84,Jun/2023,1697,1519,1520
+Electronics,Product_84,Jul/2023,997,706,616
+Electronics,Product_84,Aug/2023,1690,1876,1952
+Electronics,Product_84,Sep/2023,1721,1579,1574
+Electronics,Product_84,Oct/2023,683,637,577
+Electronics,Product_84,Nov/2023,1523,1316,1391
+Home & Kitchen,Product_85,Jan/2022,1766,1812,1906
+Home & Kitchen,Product_85,Jan/2022,1780,1541,1456
+Home & Kitchen,Product_85,Mar/2022,1228,1085,1164
+Home & Kitchen,Product_85,Apr/2022,1598,1407,1339
+Home & Kitchen,Product_85,May/2022,1499,1437,1418
+Home & Kitchen,Product_85,May/2022,1643,1698,1710
+Home & Kitchen,Product_85,Jun/2022,895,616,692
+Home & Kitchen,Product_85,Jul/2022,1273,1339,1424
+Home & Kitchen,Product_85,Aug/2022,775,731,641
+Home & Kitchen,Product_85,Sep/2022,1493,1641,1684
+Home & Kitchen,Product_85,Oct/2022,1103,1358,1436
+Home & Kitchen,Product_85,Nov/2022,1503,1397,1442
+Home & Kitchen,Product_85,Dec/2022,882,1138,1127
+Home & Kitchen,Product_85,Jan/2023,1162,1341,1311
+Home & Kitchen,Product_85,Feb/2023,1726,1993,1934
+Home & Kitchen,Product_85,Mar/2023,641,884,823
+Home & Kitchen,Product_85,Apr/2023,1420,1422,1389
+Home & Kitchen,Product_85,May/2023,1609,1684,1700
+Home & Kitchen,Product_85,Jun/2023,501,719,716
+Home & Kitchen,Product_85,Jul/2023,879,598,656
+Home & Kitchen,Product_85,Aug/2023,1245,1189,1171
+Home & Kitchen,Product_85,Sep/2023,1976,1740,1808
+Home & Kitchen,Product_85,Oct/2023,1603,1699,1647
+Home & Kitchen,Product_85,Nov/2023,1573,1782,1878
+Electronics,Product_86,Jan/2022,1629,1486,1542
+Electronics,Product_86,Jan/2022,1079,1109,1113
+Electronics,Product_86,Mar/2022,1812,1841,1769
+Electronics,Product_86,Apr/2022,697,932,1000
+Electronics,Product_86,May/2022,636,380,313
+Electronics,Product_86,May/2022,865,597,548
+Electronics,Product_86,Jun/2022,719,916,865
+Electronics,Product_86,Jul/2022,702,434,480
+Electronics,Product_86,Aug/2022,1814,1911,1979
+Electronics,Product_86,Sep/2022,1503,1741,1800
+Electronics,Product_86,Oct/2022,1936,1898,1810
+Electronics,Product_86,Nov/2022,1250,1176,1231
+Electronics,Product_86,Dec/2022,1970,1742,1645
+Electronics,Product_86,Jan/2023,927,1130,1050
+Electronics,Product_86,Feb/2023,1458,1220,1212
+Electronics,Product_86,Mar/2023,1642,1767,1761
+Electronics,Product_86,Apr/2023,1950,1709,1766
+Electronics,Product_86,May/2023,1044,1285,1195
+Electronics,Product_86,Jun/2023,644,655,574
+Electronics,Product_86,Jul/2023,942,1173,1097
+Electronics,Product_86,Aug/2023,707,643,679
+Electronics,Product_86,Sep/2023,1289,1183,1132
+Electronics,Product_86,Oct/2023,1577,1531,1576
+Electronics,Product_86,Nov/2023,1780,1663,1705
+Clothing,Product_87,Jan/2022,1643,1768,1859
+Clothing,Product_87,Jan/2022,716,1006,997
+Clothing,Product_87,Mar/2022,1881,2050,2129
+Clothing,Product_87,Apr/2022,1862,1999,1925
+Clothing,Product_87,May/2022,841,725,765
+Clothing,Product_87,May/2022,1322,1538,1524
+Clothing,Product_87,Jun/2022,1846,1707,1743
+Clothing,Product_87,Jul/2022,1728,1881,1871
+Clothing,Product_87,Aug/2022,1145,1408,1391
+Clothing,Product_87,Sep/2022,1261,1383,1478
+Clothing,Product_87,Oct/2022,1796,1936,2021
+Clothing,Product_87,Nov/2022,1162,1108,1152
+Clothing,Product_87,Dec/2022,1617,1536,1532
+Clothing,Product_87,Jan/2023,1626,1586,1578
+Clothing,Product_87,Feb/2023,1426,1584,1585
+Clothing,Product_87,Mar/2023,500,235,207
+Clothing,Product_87,Apr/2023,1720,1436,1468
+Clothing,Product_87,May/2023,776,785,686
+Clothing,Product_87,Jun/2023,1115,1042,996
+Clothing,Product_87,Jul/2023,1144,866,963
+Clothing,Product_87,Aug/2023,1912,1894,1935
+Clothing,Product_87,Sep/2023,1547,1816,1862
+Clothing,Product_87,Oct/2023,1670,1528,1452
+Clothing,Product_87,Nov/2023,577,748,739
+Sports,Product_88,Jan/2022,819,660,627
+Sports,Product_88,Jan/2022,1251,1547,1510
+Sports,Product_88,Mar/2022,977,939,915
+Sports,Product_88,Apr/2022,688,972,974
+Sports,Product_88,May/2022,1665,1587,1674
+Sports,Product_88,May/2022,658,690,713
+Sports,Product_88,Jun/2022,854,1053,1129
+Sports,Product_88,Jul/2022,1939,2229,2153
+Sports,Product_88,Aug/2022,1719,1726,1635
+Sports,Product_88,Sep/2022,1996,2286,2283
+Sports,Product_88,Oct/2022,660,417,514
+Sports,Product_88,Nov/2022,1184,1240,1251
+Sports,Product_88,Dec/2022,1353,1176,1273
+Sports,Product_88,Jan/2023,964,675,737
+Sports,Product_88,Feb/2023,1794,1885,1798
+Sports,Product_88,Mar/2023,1124,1360,1270
+Sports,Product_88,Apr/2023,1153,1405,1449
+Sports,Product_88,May/2023,806,840,868
+Sports,Product_88,Jun/2023,1929,1855,1794
+Sports,Product_88,Jul/2023,603,705,719
+Sports,Product_88,Aug/2023,1718,2007,2036
+Sports,Product_88,Sep/2023,684,611,621
+Sports,Product_88,Oct/2023,1093,1196,1133
+Sports,Product_88,Nov/2023,770,814,735
+Clothing,Product_89,Jan/2022,1474,1759,1849
+Clothing,Product_89,Jan/2022,600,861,863
+Clothing,Product_89,Mar/2022,1037,824,826
+Clothing,Product_89,Apr/2022,1527,1671,1769
+Clothing,Product_89,May/2022,1929,1762,1857
+Clothing,Product_89,May/2022,776,968,1011
+Clothing,Product_89,Jun/2022,905,1104,1105
+Clothing,Product_89,Jul/2022,1835,2120,2070
+Clothing,Product_89,Aug/2022,1649,1885,1848
+Clothing,Product_89,Sep/2022,996,769,737
+Clothing,Product_89,Oct/2022,1380,1411,1486
+Clothing,Product_89,Nov/2022,1679,1470,1398
+Clothing,Product_89,Dec/2022,1875,1998,2006
+Clothing,Product_89,Jan/2023,1248,1304,1252
+Clothing,Product_89,Feb/2023,1156,1208,1260
+Clothing,Product_89,Mar/2023,1842,1566,1663
+Clothing,Product_89,Apr/2023,1124,997,986
+Clothing,Product_89,May/2023,1762,1914,1973
+Clothing,Product_89,Jun/2023,798,949,860
+Clothing,Product_89,Jul/2023,978,882,957
+Clothing,Product_89,Aug/2023,1265,1124,1217
+Clothing,Product_89,Sep/2023,1991,1778,1706
+Clothing,Product_89,Oct/2023,611,559,617
+Clothing,Product_89,Nov/2023,802,796,699
+Electronics,Product_90,Jan/2022,1203,1016,994
+Electronics,Product_90,Jan/2022,1421,1603,1508
+Electronics,Product_90,Mar/2022,1179,1093,1182
+Electronics,Product_90,Apr/2022,1601,1517,1469
+Electronics,Product_90,May/2022,1619,1854,1946
+Electronics,Product_90,May/2022,1029,1290,1313
+Electronics,Product_90,Jun/2022,1775,1619,1696
+Electronics,Product_90,Jul/2022,1931,1649,1645
+Electronics,Product_90,Aug/2022,1693,1932,1843
+Electronics,Product_90,Sep/2022,1023,897,812
+Electronics,Product_90,Oct/2022,1081,986,1064
+Electronics,Product_90,Nov/2022,1765,1742,1655
+Electronics,Product_90,Dec/2022,1452,1160,1077
+Electronics,Product_90,Jan/2023,1295,1272,1341
+Electronics,Product_90,Feb/2023,1851,1919,1846
+Electronics,Product_90,Mar/2023,539,538,604
+Electronics,Product_90,Apr/2023,1291,1227,1224
+Electronics,Product_90,May/2023,1541,1342,1322
+Electronics,Product_90,Jun/2023,1492,1736,1658
+Electronics,Product_90,Jul/2023,881,784,812
+Electronics,Product_90,Aug/2023,1437,1711,1793
+Electronics,Product_90,Sep/2023,544,284,247
+Electronics,Product_90,Oct/2023,1584,1596,1581
+Electronics,Product_90,Nov/2023,1503,1605,1695
+Home & Kitchen,Product_91,Jan/2022,821,539,527
+Home & Kitchen,Product_91,Jan/2022,1901,1961,1951
+Home & Kitchen,Product_91,Mar/2022,1780,1789,1749
+Home & Kitchen,Product_91,Apr/2022,1526,1508,1423
+Home & Kitchen,Product_91,May/2022,1781,1744,1743
+Home & Kitchen,Product_91,May/2022,560,828,799
+Home & Kitchen,Product_91,Jun/2022,961,816,803
+Home & Kitchen,Product_91,Jul/2022,1304,1144,1066
+Home & Kitchen,Product_91,Aug/2022,1994,2085,2118
+Home & Kitchen,Product_91,Sep/2022,1888,1820,1826
+Home & Kitchen,Product_91,Oct/2022,992,1278,1217
+Home & Kitchen,Product_91,Nov/2022,1373,1392,1446
+Home & Kitchen,Product_91,Dec/2022,1174,1333,1371
+Home & Kitchen,Product_91,Jan/2023,769,680,747
+Home & Kitchen,Product_91,Feb/2023,783,1077,1115
+Home & Kitchen,Product_91,Mar/2023,1900,1807,1742
+Home & Kitchen,Product_91,Apr/2023,1132,1368,1302
+Home & Kitchen,Product_91,May/2023,1380,1228,1295
+Home & Kitchen,Product_91,Jun/2023,1656,1517,1498
+Home & Kitchen,Product_91,Jul/2023,638,908,944
+Home & Kitchen,Product_91,Aug/2023,1973,1794,1741
+Home & Kitchen,Product_91,Sep/2023,1150,999,1085
+Home & Kitchen,Product_91,Oct/2023,560,586,591
+Home & Kitchen,Product_91,Nov/2023,1342,1352,1365
+Books,Product_92,Jan/2022,1804,1784,1722
+Books,Product_92,Jan/2022,884,693,626
+Books,Product_92,Mar/2022,878,604,699
+Books,Product_92,Apr/2022,1753,1726,1781
+Books,Product_92,May/2022,1661,1597,1649
+Books,Product_92,May/2022,975,911,986
+Books,Product_92,Jun/2022,553,620,540
+Books,Product_92,Jul/2022,1909,2097,2031
+Books,Product_92,Aug/2022,1528,1708,1790
+Books,Product_92,Sep/2022,1830,1912,1859
+Books,Product_92,Oct/2022,1293,1496,1517
+Books,Product_92,Nov/2022,781,648,597
+Books,Product_92,Dec/2022,963,696,700
+Books,Product_92,Jan/2023,530,506,511
+Books,Product_92,Feb/2023,955,862,955
+Books,Product_92,Mar/2023,918,685,630
+Books,Product_92,Apr/2023,1399,1600,1676
+Books,Product_92,May/2023,1165,1333,1296
+Books,Product_92,Jun/2023,1375,1489,1587
+Books,Product_92,Jul/2023,585,674,758
+Books,Product_92,Aug/2023,1140,1243,1299
+Books,Product_92,Sep/2023,1671,1920,1954
+Books,Product_92,Oct/2023,1813,1552,1585
+Books,Product_92,Nov/2023,723,885,901
+Clothing,Product_93,Jan/2022,586,537,569
+Clothing,Product_93,Jan/2022,1601,1706,1794
+Clothing,Product_93,Mar/2022,580,851,850
+Clothing,Product_93,Apr/2022,1557,1307,1255
+Clothing,Product_93,May/2022,1096,1246,1247
+Clothing,Product_93,May/2022,1123,1115,1133
+Clothing,Product_93,Jun/2022,840,972,947
+Clothing,Product_93,Jul/2022,1755,1510,1586
+Clothing,Product_93,Aug/2022,1558,1403,1421
+Clothing,Product_93,Sep/2022,1823,1985,1908
+Clothing,Product_93,Oct/2022,1979,2191,2119
+Clothing,Product_93,Nov/2022,868,1167,1245
+Clothing,Product_93,Dec/2022,1619,1457,1457
+Clothing,Product_93,Jan/2023,1346,1377,1392
+Clothing,Product_93,Feb/2023,551,434,450
+Clothing,Product_93,Mar/2023,1708,1614,1630
+Clothing,Product_93,Apr/2023,684,640,622
+Clothing,Product_93,May/2023,1916,1783,1866
+Clothing,Product_93,Jun/2023,753,546,475
+Clothing,Product_93,Jul/2023,1946,2106,2168
+Clothing,Product_93,Aug/2023,1243,1030,1064
+Clothing,Product_93,Sep/2023,1948,2041,2127
+Clothing,Product_93,Oct/2023,1547,1410,1406
+Clothing,Product_93,Nov/2023,1627,1716,1627
+Home & Kitchen,Product_94,Jan/2022,849,892,936
+Home & Kitchen,Product_94,Jan/2022,1850,1703,1644
+Home & Kitchen,Product_94,Mar/2022,796,679,775
+Home & Kitchen,Product_94,Apr/2022,1958,1710,1717
+Home & Kitchen,Product_94,May/2022,1130,1146,1232
+Home & Kitchen,Product_94,May/2022,1413,1408,1468
+Home & Kitchen,Product_94,Jun/2022,870,690,623
+Home & Kitchen,Product_94,Jul/2022,915,618,677
+Home & Kitchen,Product_94,Aug/2022,1018,730,747
+Home & Kitchen,Product_94,Sep/2022,1519,1729,1768
+Home & Kitchen,Product_94,Oct/2022,511,716,676
+Home & Kitchen,Product_94,Nov/2022,944,1131,1147
+Home & Kitchen,Product_94,Dec/2022,1339,1491,1411
+Home & Kitchen,Product_94,Jan/2023,1731,1437,1399
+Home & Kitchen,Product_94,Feb/2023,1620,1604,1662
+Home & Kitchen,Product_94,Mar/2023,1787,2057,2010
+Home & Kitchen,Product_94,Apr/2023,600,489,426
+Home & Kitchen,Product_94,May/2023,612,669,578
+Home & Kitchen,Product_94,Jun/2023,797,530,600
+Home & Kitchen,Product_94,Jul/2023,1683,1688,1672
+Home & Kitchen,Product_94,Aug/2023,679,429,356
+Home & Kitchen,Product_94,Sep/2023,1353,1235,1176
+Home & Kitchen,Product_94,Oct/2023,1876,1867,1923
+Home & Kitchen,Product_94,Nov/2023,1853,2139,2182
+Sports,Product_95,Jan/2022,863,1029,1120
+Sports,Product_95,Jan/2022,1685,1753,1662
+Sports,Product_95,Mar/2022,690,696,678
+Sports,Product_95,Apr/2022,1254,1342,1259
+Sports,Product_95,May/2022,1375,1638,1554
+Sports,Product_95,May/2022,1099,1281,1215
+Sports,Product_95,Jun/2022,749,730,714
+Sports,Product_95,Jul/2022,1579,1702,1736
+Sports,Product_95,Aug/2022,929,843,899
+Sports,Product_95,Sep/2022,619,430,476
+Sports,Product_95,Oct/2022,1994,2235,2157
+Sports,Product_95,Nov/2022,1490,1484,1493
+Sports,Product_95,Dec/2022,1746,1770,1736
+Sports,Product_95,Jan/2023,1576,1864,1923
+Sports,Product_95,Feb/2023,1224,1056,1113
+Sports,Product_95,Mar/2023,1652,1860,1893
+Sports,Product_95,Apr/2023,1993,2202,2228
+Sports,Product_95,May/2023,868,806,887
+Sports,Product_95,Jun/2023,1094,992,892
+Sports,Product_95,Jul/2023,742,466,485
+Sports,Product_95,Aug/2023,1780,1600,1688
+Sports,Product_95,Sep/2023,924,1048,1053
+Sports,Product_95,Oct/2023,593,634,623
+Sports,Product_95,Nov/2023,1647,1564,1466
+Sports,Product_96,Jan/2022,1811,1717,1793
+Sports,Product_96,Jan/2022,1076,1036,953
+Sports,Product_96,Mar/2022,1130,1137,1166
+Sports,Product_96,Apr/2022,1626,1657,1753
+Sports,Product_96,May/2022,512,328,403
+Sports,Product_96,May/2022,1182,1231,1232
+Sports,Product_96,Jun/2022,1983,2265,2322
+Sports,Product_96,Jul/2022,559,438,387
+Sports,Product_96,Aug/2022,1176,1222,1294
+Sports,Product_96,Sep/2022,1481,1666,1575
+Sports,Product_96,Oct/2022,1822,1661,1684
+Sports,Product_96,Nov/2022,818,989,1026
+Sports,Product_96,Dec/2022,1186,1359,1459
+Sports,Product_96,Jan/2023,1347,1104,1137
+Sports,Product_96,Feb/2023,1113,1391,1476
+Sports,Product_96,Mar/2023,1888,1911,1953
+Sports,Product_96,Apr/2023,1597,1316,1269
+Sports,Product_96,May/2023,1682,1721,1711
+Sports,Product_96,Jun/2023,635,487,458
+Sports,Product_96,Jul/2023,563,610,606
+Sports,Product_96,Aug/2023,1783,2030,1972
+Sports,Product_96,Sep/2023,1669,1767,1714
+Sports,Product_96,Oct/2023,1718,1537,1637
+Sports,Product_96,Nov/2023,1131,1153,1234
+Sports,Product_97,Jan/2022,564,542,547
+Sports,Product_97,Jan/2022,677,885,845
+Sports,Product_97,Mar/2022,1261,1423,1400
+Sports,Product_97,Apr/2022,942,1179,1156
+Sports,Product_97,May/2022,858,672,667
+Sports,Product_97,May/2022,576,482,405
+Sports,Product_97,Jun/2022,1408,1626,1532
+Sports,Product_97,Jul/2022,1488,1700,1639
+Sports,Product_97,Aug/2022,889,937,960
+Sports,Product_97,Sep/2022,2000,2236,2215
+Sports,Product_97,Oct/2022,1170,1016,1112
+Sports,Product_97,Nov/2022,701,929,1002
+Sports,Product_97,Dec/2022,771,681,766
+Sports,Product_97,Jan/2023,574,744,743
+Sports,Product_97,Feb/2023,1961,2195,2124
+Sports,Product_97,Mar/2023,508,526,437
+Sports,Product_97,Apr/2023,1907,1696,1681
+Sports,Product_97,May/2023,1456,1203,1129
+Sports,Product_97,Jun/2023,1566,1585,1490
+Sports,Product_97,Jul/2023,1682,1701,1764
+Sports,Product_97,Aug/2023,929,957,908
+Sports,Product_97,Sep/2023,894,887,857
+Sports,Product_97,Oct/2023,1590,1616,1713
+Sports,Product_97,Nov/2023,1403,1223,1192
+Home & Kitchen,Product_98,Jan/2022,805,666,636
+Home & Kitchen,Product_98,Jan/2022,734,449,508
+Home & Kitchen,Product_98,Mar/2022,1646,1872,1798
+Home & Kitchen,Product_98,Apr/2022,923,1178,1167
+Home & Kitchen,Product_98,May/2022,1625,1651,1620
+Home & Kitchen,Product_98,May/2022,789,779,825
+Home & Kitchen,Product_98,Jun/2022,1001,876,794
+Home & Kitchen,Product_98,Jul/2022,1137,1183,1221
+Home & Kitchen,Product_98,Aug/2022,1408,1159,1092
+Home & Kitchen,Product_98,Sep/2022,559,741,813
+Home & Kitchen,Product_98,Oct/2022,603,411,409
+Home & Kitchen,Product_98,Nov/2022,610,398,407
+Home & Kitchen,Product_98,Dec/2022,1302,1185,1265
+Home & Kitchen,Product_98,Jan/2023,1720,1876,1933
+Home & Kitchen,Product_98,Feb/2023,1228,1247,1232
+Home & Kitchen,Product_98,Mar/2023,905,1151,1071
+Home & Kitchen,Product_98,Apr/2023,1453,1734,1667
+Home & Kitchen,Product_98,May/2023,690,869,793
+Home & Kitchen,Product_98,Jun/2023,1433,1450,1525
+Home & Kitchen,Product_98,Jul/2023,1819,1995,2015
+Home & Kitchen,Product_98,Aug/2023,974,903,839
+Home & Kitchen,Product_98,Sep/2023,1763,1727,1720
+Home & Kitchen,Product_98,Oct/2023,1302,1189,1268
+Home & Kitchen,Product_98,Nov/2023,1862,1900,1883
+Clothing,Product_99,Jan/2022,1428,1627,1534
+Clothing,Product_99,Jan/2022,633,819,747
+Clothing,Product_99,Mar/2022,1219,1409,1427
+Clothing,Product_99,Apr/2022,849,838,934
+Clothing,Product_99,May/2022,1213,1501,1433
+Clothing,Product_99,May/2022,1540,1345,1348
+Clothing,Product_99,Jun/2022,1962,1771,1754
+Clothing,Product_99,Jul/2022,1638,1410,1387
+Clothing,Product_99,Aug/2022,1591,1763,1765
+Clothing,Product_99,Sep/2022,1709,1832,1793
+Clothing,Product_99,Oct/2022,1771,1720,1760
+Clothing,Product_99,Nov/2022,825,1018,1016
+Clothing,Product_99,Dec/2022,635,683,636
+Clothing,Product_99,Jan/2023,1921,2062,2162
+Clothing,Product_99,Feb/2023,1391,1671,1658
+Clothing,Product_99,Mar/2023,1615,1556,1500
+Clothing,Product_99,Apr/2023,1857,1636,1725
+Clothing,Product_99,May/2023,1957,2244,2268
+Clothing,Product_99,Jun/2023,734,908,891
+Clothing,Product_99,Jul/2023,1636,1435,1448
+Clothing,Product_99,Aug/2023,860,875,878
+Clothing,Product_99,Sep/2023,642,453,528
+Clothing,Product_99,Oct/2023,1721,1809,1792
+Clothing,Product_99,Nov/2023,1512,1274,1197
+Home & Kitchen,Product_100,Jan/2022,945,787,835
+Home & Kitchen,Product_100,Jan/2022,1802,1502,1595
+Home & Kitchen,Product_100,Mar/2022,800,652,667
+Home & Kitchen,Product_100,Apr/2022,1588,1586,1585
+Home & Kitchen,Product_100,May/2022,1760,2051,2065
+Home & Kitchen,Product_100,May/2022,900,810,884
+Home & Kitchen,Product_100,Jun/2022,1148,1154,1199
+Home & Kitchen,Product_100,Jul/2022,1891,1902,1913
+Home & Kitchen,Product_100,Aug/2022,1970,2022,1944
+Home & Kitchen,Product_100,Sep/2022,1693,1401,1457
+Home & Kitchen,Product_100,Oct/2022,1545,1658,1590
+Home & Kitchen,Product_100,Nov/2022,1102,865,859
+Home & Kitchen,Product_100,Dec/2022,1624,1378,1278
+Home & Kitchen,Product_100,Jan/2023,1940,2213,2204
+Home & Kitchen,Product_100,Feb/2023,724,712,619
+Home & Kitchen,Product_100,Mar/2023,981,1123,1202
+Home & Kitchen,Product_100,Apr/2023,1708,1811,1871
+Home & Kitchen,Product_100,May/2023,1151,1242,1245
+Home & Kitchen,Product_100,Jun/2023,1281,1426,1465
+Home & Kitchen,Product_100,Jul/2023,932,809,830
+Home & Kitchen,Product_100,Aug/2023,784,676,718
+Home & Kitchen,Product_100,Sep/2023,1287,1355,1361
+Home & Kitchen,Product_100,Oct/2023,815,810,881
+Home & Kitchen,Product_100,Nov/2023,757,594,496
