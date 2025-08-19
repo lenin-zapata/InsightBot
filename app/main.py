@@ -21,7 +21,11 @@ if model_choice == "flan-t5-large":
 
 lang = st.radio("Choose language / Elige idioma", ["English", "Español"])
 
-prompt = st.text_input("Ask a question / Haz una pregunta")
+prompt = st.text_input(
+    "Ask a question / Haz una pregunta",
+    placeholder="e.g. What are the top-selling products this month? / ¿Cuáles son los productos más vendidos este mes?"
+)
+
 
 qa_chain = build_qa_chain(model_name=model_choice)
 
