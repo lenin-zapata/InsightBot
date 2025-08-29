@@ -9,3 +9,4 @@ langchain
 langchain-community
 langchain-huggingface
 huggingface_hub>=0.24.0
+duckduckgo-search
