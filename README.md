@@ -56,7 +56,7 @@
 **🌳 Estructura del Proyecto**
 
 InsightBot/  
-|── data/ # Dataset en CSV  
+|── data/ ****# Dataset en CSV****  
 │ └── retail_indicators.csv # Datos de indicadores retail  
 ├── app/ # Módulo principal  
 │ ├── main.py # Aplicación principal  

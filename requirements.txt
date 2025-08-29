@@ -1,8 +1,11 @@
 streamlit
-langchain
-langchain_community
+python-dotenv
+pandas
+matplotlib
+faiss-cpu
 transformers
 sentence-transformers
-faiss-cpu
-pandas
-python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+huggingface_hub>=0.24.0
