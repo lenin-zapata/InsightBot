@@ -1,17 +1,23 @@
 import os
 import streamlit as st
 from dotenv import load_dotenv
-from agent import build_agent
 import html 
 
-
 # =========================
-# Configuración e iniciales
+# Configuración inicial y Secretos
 # =========================
-load_dotenv()
-HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN", "")
-
 st.set_page_config(page_title="Retail Agent", layout="centered")
+
+# 1. Cargar variables de entorno locales (.env)
+load_dotenv()
+
+# 2. Inyectar secretos de Streamlit al entorno (CRÍTICO para la Nube)
+if "HUGGINGFACEHUB_API_TOKEN" in st.secrets:
+    os.environ["HUGGINGFACEHUB_API_TOKEN"] = st.secrets["HUGGINGFACEHUB_API_TOKEN"]
+
+# Ahora importamos el agente (después de configurar el entorno)
+from agent import build_agent
+
 st.title("🛍️ Retail Agent (RAG + Tools + Conversación)")
 
 # =========================
@@ -32,12 +38,14 @@ model_choice = st.sidebar.selectbox(
 
 lang = st.sidebar.radio("Idioma de respuesta / Response language", ["Español", "English"], index=0)
 
-# Avisos de entorno
-if not HF_TOKEN:
+# Validación de token
+hf_token = os.environ.get("HUGGINGFACEHUB_API_TOKEN")
+if not hf_token:
     st.sidebar.error(
-        "No se encontró `HUGGINGFACEHUB_API_TOKEN` en el entorno. "
-        "Crea un archivo `.env` con tu token de Hugging Face."
+        "⚠️ No se encontró el Token de Hugging Face. "
+        "Configúralo en los 'Secrets' de Streamlit Cloud o en tu .env local."
     )
+    st.stop() # Detiene la app si no hay token
 
 st.sidebar.caption(
     "Consejo: si cambias el CSV, borra la carpeta `.faiss_index/` para regenerar el índice."
@@ -64,10 +72,10 @@ if "messages" not in st.session_state:
 # =========================
 for m in st.session_state.messages:
     with st.chat_message(m["role"]):
-        # Mensaje con gráfico (si existiera)
         if m.get("plot_path"):
             st.markdown(m["content"])
-            st.image(m["plot_path"], caption=m.get("caption", ""), use_container_width=True)
+            if os.path.exists(m["plot_path"]):
+                st.image(m["plot_path"], caption=m.get("caption", ""), use_container_width=True)
         else:
             st.markdown(m["content"])
 
@@ -77,27 +85,22 @@ for m in st.session_state.messages:
 cols = st.columns(2)
 with cols[0]:
     if st.button("🧹 Reiniciar conversación"):
-        init_agent()                # reconstruye agente (reinicia memoria)
+        init_agent()
         st.session_state.messages = []
         st.rerun()
 with cols[1]:
     st.info("Pide análisis o gráficos; el agente elegirá la herramienta adecuada.")
 
 # =========================
-# Utilidad para detectar PLOT_PATH en respuestas
+# Utilidad para detectar PLOT_PATH
 # =========================
 def maybe_render_plot(text: str):
-    """
-    Si la respuesta del agente incluye 'PLOT_PATH: <ruta>', devolvemos (ruta, caption).
-    La UI mostrará la imagen y ocultará la línea con PLOT_PATH.
-    """
     lines = text.splitlines()
     path = None
     caption = None
     for ln in lines:
-        if ln.startswith("PLOT_PATH:"):
+        if "PLOT_PATH:" in ln:
             path = ln.split("PLOT_PATH:", 1)[1].strip()
-        # Captions sugeridos por la herramienta (línea que empieza con 'Gráfico generado')
         if ln.lower().startswith("gráfico generado") or ln.lower().startswith("grafico generado"):
             caption = ln.strip()
     return path, caption
@@ -108,25 +111,22 @@ def maybe_render_plot(text: str):
 user_input = st.chat_input("Pregunta o pide análisis/gráficos...")
 
 if user_input:
-    # Muestra mensaje del usuario
     with st.chat_message("user"):
         st.markdown(user_input)
     st.session_state.messages.append({"role": "user", "content": user_input})
 
-    # Respuesta del agente
     with st.chat_message("assistant"):
         with st.spinner("Pensando..."):
-            
             try:
                 result = st.session_state.agent.invoke({"input": user_input})
                 answer = result["output"].strip() if isinstance(result, dict) else str(result).strip()
-                answer = html.unescape(answer)  # 🔧 decodifica entidades HTML
+                answer = html.unescape(answer)
 
-                # ¿Incluye gráfico?
                 plot_path, caption = maybe_render_plot(answer)
+                
+                # Render logic
                 if plot_path and os.path.exists(plot_path):
-                    answer_clean = "\n".join([ln for ln in answer.splitlines() if not ln.startswith("PLOT_PATH:")])
-                    answer_clean = html.unescape(answer_clean)  # 🔧 decodifica también el texto limpio
+                    answer_clean = "\n".join([ln for ln in answer.splitlines() if "PLOT_PATH:" not in ln])
                     st.markdown(answer_clean)
                     st.image(plot_path, caption=caption or "Gráfico", use_container_width=True)
                     st.session_state.messages.append({
@@ -141,4 +141,3 @@ if user_input:
 
             except Exception as e:
                 st.error(f"Error al procesar: {e}")
-

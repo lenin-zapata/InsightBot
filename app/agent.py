@@ -12,9 +12,17 @@ from langchain.memory import ConversationBufferWindowMemory
 from langchain.tools import Tool
 from langchain_community.tools import DuckDuckGoSearchRun
 
+# Importamos lógica de tus otros archivos
 from vector_store import load_dataframe
 from qa_chain import build_qa_chain
 
+# ==========================================
+# 1. AUTENTICACIÓN (Fix para Streamlit Cloud)
+# ==========================================
+# Si el token está en los secretos de Streamlit, lo pasamos al entorno
+# para que LangChain y HuggingFace lo detecten automáticamente.
+if "HUGGINGFACEHUB_API_TOKEN" in st.secrets:
+    os.environ["HUGGINGFACEHUB_API_TOKEN"] = st.secrets["HUGGINGFACEHUB_API_TOKEN"]
 
 # =========================
 # Helpers de datos y parsing
@@ -195,6 +203,10 @@ def build_agent(model_name: str = "HuggingFaceH4/zephyr-7b-beta",
     - DuckDuckGoSearchRun (búsqueda web)
     Servido por Hugging Face Inference API.
     """
+    
+    # Obtenemos el token de las variables de entorno (ya inyectado desde st.secrets arriba)
+    api_token = os.environ.get("HUGGINGFACEHUB_API_TOKEN")
+
     # LLM chat via HF Inference API
     hf_raw = HuggingFaceEndpoint(
         repo_id=model_name,
@@ -202,7 +214,7 @@ def build_agent(model_name: str = "HuggingFaceH4/zephyr-7b-beta",
         temperature=0.2,
         max_new_tokens=512,
         timeout=120,
-        huggingfacehub_api_token=os.getenv("HUGGINGFACEHUB_API_TOKEN"),
+        huggingfacehub_api_token=api_token, # Token explícito
     )
     llm = ChatHuggingFace(llm=hf_raw)
 
