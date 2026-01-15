@@ -5,8 +5,8 @@ matplotlib
 faiss-cpu
 transformers
 sentence-transformers
-langchain
-langchain-community
+langchain==0.1.20
+langchain-community==0.0.38
 langchain-huggingface
 huggingface_hub
 duckduckgo-search
